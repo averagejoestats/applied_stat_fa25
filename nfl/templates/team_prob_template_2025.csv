@@ -1,0 +1,577 @@
+"team","wins","prob"
+"Arizona Cardinals",0,NA
+"Arizona Cardinals",1,NA
+"Arizona Cardinals",2,NA
+"Arizona Cardinals",3,NA
+"Arizona Cardinals",4,NA
+"Arizona Cardinals",5,NA
+"Arizona Cardinals",6,NA
+"Arizona Cardinals",7,NA
+"Arizona Cardinals",8,NA
+"Arizona Cardinals",9,NA
+"Arizona Cardinals",10,NA
+"Arizona Cardinals",11,NA
+"Arizona Cardinals",12,NA
+"Arizona Cardinals",13,NA
+"Arizona Cardinals",14,NA
+"Arizona Cardinals",15,NA
+"Arizona Cardinals",16,NA
+"Arizona Cardinals",17,NA
+"Atlanta Falcons",0,NA
+"Atlanta Falcons",1,NA
+"Atlanta Falcons",2,NA
+"Atlanta Falcons",3,NA
+"Atlanta Falcons",4,NA
+"Atlanta Falcons",5,NA
+"Atlanta Falcons",6,NA
+"Atlanta Falcons",7,NA
+"Atlanta Falcons",8,NA
+"Atlanta Falcons",9,NA
+"Atlanta Falcons",10,NA
+"Atlanta Falcons",11,NA
+"Atlanta Falcons",12,NA
+"Atlanta Falcons",13,NA
+"Atlanta Falcons",14,NA
+"Atlanta Falcons",15,NA
+"Atlanta Falcons",16,NA
+"Atlanta Falcons",17,NA
+"Baltimore Ravens",0,NA
+"Baltimore Ravens",1,NA
+"Baltimore Ravens",2,NA
+"Baltimore Ravens",3,NA
+"Baltimore Ravens",4,NA
+"Baltimore Ravens",5,NA
+"Baltimore Ravens",6,NA
+"Baltimore Ravens",7,NA
+"Baltimore Ravens",8,NA
+"Baltimore Ravens",9,NA
+"Baltimore Ravens",10,NA
+"Baltimore Ravens",11,NA
+"Baltimore Ravens",12,NA
+"Baltimore Ravens",13,NA
+"Baltimore Ravens",14,NA
+"Baltimore Ravens",15,NA
+"Baltimore Ravens",16,NA
+"Baltimore Ravens",17,NA
+"Buffalo Bills",0,NA
+"Buffalo Bills",1,NA
+"Buffalo Bills",2,NA
+"Buffalo Bills",3,NA
+"Buffalo Bills",4,NA
+"Buffalo Bills",5,NA
+"Buffalo Bills",6,NA
+"Buffalo Bills",7,NA
+"Buffalo Bills",8,NA
+"Buffalo Bills",9,NA
+"Buffalo Bills",10,NA
+"Buffalo Bills",11,NA
+"Buffalo Bills",12,NA
+"Buffalo Bills",13,NA
+"Buffalo Bills",14,NA
+"Buffalo Bills",15,NA
+"Buffalo Bills",16,NA
+"Buffalo Bills",17,NA
+"Carolina Panthers",0,NA
+"Carolina Panthers",1,NA
+"Carolina Panthers",2,NA
+"Carolina Panthers",3,NA
+"Carolina Panthers",4,NA
+"Carolina Panthers",5,NA
+"Carolina Panthers",6,NA
+"Carolina Panthers",7,NA
+"Carolina Panthers",8,NA
+"Carolina Panthers",9,NA
+"Carolina Panthers",10,NA
+"Carolina Panthers",11,NA
+"Carolina Panthers",12,NA
+"Carolina Panthers",13,NA
+"Carolina Panthers",14,NA
+"Carolina Panthers",15,NA
+"Carolina Panthers",16,NA
+"Carolina Panthers",17,NA
+"Chicago Bears",0,NA
+"Chicago Bears",1,NA
+"Chicago Bears",2,NA
+"Chicago Bears",3,NA
+"Chicago Bears",4,NA
+"Chicago Bears",5,NA
+"Chicago Bears",6,NA
+"Chicago Bears",7,NA
+"Chicago Bears",8,NA
+"Chicago Bears",9,NA
+"Chicago Bears",10,NA
+"Chicago Bears",11,NA
+"Chicago Bears",12,NA
+"Chicago Bears",13,NA
+"Chicago Bears",14,NA
+"Chicago Bears",15,NA
+"Chicago Bears",16,NA
+"Chicago Bears",17,NA
+"Cincinnati Bengals",0,NA
+"Cincinnati Bengals",1,NA
+"Cincinnati Bengals",2,NA
+"Cincinnati Bengals",3,NA
+"Cincinnati Bengals",4,NA
+"Cincinnati Bengals",5,NA
+"Cincinnati Bengals",6,NA
+"Cincinnati Bengals",7,NA
+"Cincinnati Bengals",8,NA
+"Cincinnati Bengals",9,NA
+"Cincinnati Bengals",10,NA
+"Cincinnati Bengals",11,NA
+"Cincinnati Bengals",12,NA
+"Cincinnati Bengals",13,NA
+"Cincinnati Bengals",14,NA
+"Cincinnati Bengals",15,NA
+"Cincinnati Bengals",16,NA
+"Cincinnati Bengals",17,NA
+"Cleveland Browns",0,NA
+"Cleveland Browns",1,NA
+"Cleveland Browns",2,NA
+"Cleveland Browns",3,NA
+"Cleveland Browns",4,NA
+"Cleveland Browns",5,NA
+"Cleveland Browns",6,NA
+"Cleveland Browns",7,NA
+"Cleveland Browns",8,NA
+"Cleveland Browns",9,NA
+"Cleveland Browns",10,NA
+"Cleveland Browns",11,NA
+"Cleveland Browns",12,NA
+"Cleveland Browns",13,NA
+"Cleveland Browns",14,NA
+"Cleveland Browns",15,NA
+"Cleveland Browns",16,NA
+"Cleveland Browns",17,NA
+"Dallas Cowboys",0,NA
+"Dallas Cowboys",1,NA
+"Dallas Cowboys",2,NA
+"Dallas Cowboys",3,NA
+"Dallas Cowboys",4,NA
+"Dallas Cowboys",5,NA
+"Dallas Cowboys",6,NA
+"Dallas Cowboys",7,NA
+"Dallas Cowboys",8,NA
+"Dallas Cowboys",9,NA
+"Dallas Cowboys",10,NA
+"Dallas Cowboys",11,NA
+"Dallas Cowboys",12,NA
+"Dallas Cowboys",13,NA
+"Dallas Cowboys",14,NA
+"Dallas Cowboys",15,NA
+"Dallas Cowboys",16,NA
+"Dallas Cowboys",17,NA
+"Denver Broncos",0,NA
+"Denver Broncos",1,NA
+"Denver Broncos",2,NA
+"Denver Broncos",3,NA
+"Denver Broncos",4,NA
+"Denver Broncos",5,NA
+"Denver Broncos",6,NA
+"Denver Broncos",7,NA
+"Denver Broncos",8,NA
+"Denver Broncos",9,NA
+"Denver Broncos",10,NA
+"Denver Broncos",11,NA
+"Denver Broncos",12,NA
+"Denver Broncos",13,NA
+"Denver Broncos",14,NA
+"Denver Broncos",15,NA
+"Denver Broncos",16,NA
+"Denver Broncos",17,NA
+"Detroit Lions",0,NA
+"Detroit Lions",1,NA
+"Detroit Lions",2,NA
+"Detroit Lions",3,NA
+"Detroit Lions",4,NA
+"Detroit Lions",5,NA
+"Detroit Lions",6,NA
+"Detroit Lions",7,NA
+"Detroit Lions",8,NA
+"Detroit Lions",9,NA
+"Detroit Lions",10,NA
+"Detroit Lions",11,NA
+"Detroit Lions",12,NA
+"Detroit Lions",13,NA
+"Detroit Lions",14,NA
+"Detroit Lions",15,NA
+"Detroit Lions",16,NA
+"Detroit Lions",17,NA
+"Green Bay Packers",0,NA
+"Green Bay Packers",1,NA
+"Green Bay Packers",2,NA
+"Green Bay Packers",3,NA
+"Green Bay Packers",4,NA
+"Green Bay Packers",5,NA
+"Green Bay Packers",6,NA
+"Green Bay Packers",7,NA
+"Green Bay Packers",8,NA
+"Green Bay Packers",9,NA
+"Green Bay Packers",10,NA
+"Green Bay Packers",11,NA
+"Green Bay Packers",12,NA
+"Green Bay Packers",13,NA
+"Green Bay Packers",14,NA
+"Green Bay Packers",15,NA
+"Green Bay Packers",16,NA
+"Green Bay Packers",17,NA
+"Houston Texans",0,NA
+"Houston Texans",1,NA
+"Houston Texans",2,NA
+"Houston Texans",3,NA
+"Houston Texans",4,NA
+"Houston Texans",5,NA
+"Houston Texans",6,NA
+"Houston Texans",7,NA
+"Houston Texans",8,NA
+"Houston Texans",9,NA
+"Houston Texans",10,NA
+"Houston Texans",11,NA
+"Houston Texans",12,NA
+"Houston Texans",13,NA
+"Houston Texans",14,NA
+"Houston Texans",15,NA
+"Houston Texans",16,NA
+"Houston Texans",17,NA
+"Indianapolis Colts",0,NA
+"Indianapolis Colts",1,NA
+"Indianapolis Colts",2,NA
+"Indianapolis Colts",3,NA
+"Indianapolis Colts",4,NA
+"Indianapolis Colts",5,NA
+"Indianapolis Colts",6,NA
+"Indianapolis Colts",7,NA
+"Indianapolis Colts",8,NA
+"Indianapolis Colts",9,NA
+"Indianapolis Colts",10,NA
+"Indianapolis Colts",11,NA
+"Indianapolis Colts",12,NA
+"Indianapolis Colts",13,NA
+"Indianapolis Colts",14,NA
+"Indianapolis Colts",15,NA
+"Indianapolis Colts",16,NA
+"Indianapolis Colts",17,NA
+"Jacksonville Jaguars",0,NA
+"Jacksonville Jaguars",1,NA
+"Jacksonville Jaguars",2,NA
+"Jacksonville Jaguars",3,NA
+"Jacksonville Jaguars",4,NA
+"Jacksonville Jaguars",5,NA
+"Jacksonville Jaguars",6,NA
+"Jacksonville Jaguars",7,NA
+"Jacksonville Jaguars",8,NA
+"Jacksonville Jaguars",9,NA
+"Jacksonville Jaguars",10,NA
+"Jacksonville Jaguars",11,NA
+"Jacksonville Jaguars",12,NA
+"Jacksonville Jaguars",13,NA
+"Jacksonville Jaguars",14,NA
+"Jacksonville Jaguars",15,NA
+"Jacksonville Jaguars",16,NA
+"Jacksonville Jaguars",17,NA
+"Kansas City Chiefs",0,NA
+"Kansas City Chiefs",1,NA
+"Kansas City Chiefs",2,NA
+"Kansas City Chiefs",3,NA
+"Kansas City Chiefs",4,NA
+"Kansas City Chiefs",5,NA
+"Kansas City Chiefs",6,NA
+"Kansas City Chiefs",7,NA
+"Kansas City Chiefs",8,NA
+"Kansas City Chiefs",9,NA
+"Kansas City Chiefs",10,NA
+"Kansas City Chiefs",11,NA
+"Kansas City Chiefs",12,NA
+"Kansas City Chiefs",13,NA
+"Kansas City Chiefs",14,NA
+"Kansas City Chiefs",15,NA
+"Kansas City Chiefs",16,NA
+"Kansas City Chiefs",17,NA
+"Las Vegas Raiders",0,NA
+"Las Vegas Raiders",1,NA
+"Las Vegas Raiders",2,NA
+"Las Vegas Raiders",3,NA
+"Las Vegas Raiders",4,NA
+"Las Vegas Raiders",5,NA
+"Las Vegas Raiders",6,NA
+"Las Vegas Raiders",7,NA
+"Las Vegas Raiders",8,NA
+"Las Vegas Raiders",9,NA
+"Las Vegas Raiders",10,NA
+"Las Vegas Raiders",11,NA
+"Las Vegas Raiders",12,NA
+"Las Vegas Raiders",13,NA
+"Las Vegas Raiders",14,NA
+"Las Vegas Raiders",15,NA
+"Las Vegas Raiders",16,NA
+"Las Vegas Raiders",17,NA
+"Los Angeles Chargers",0,NA
+"Los Angeles Chargers",1,NA
+"Los Angeles Chargers",2,NA
+"Los Angeles Chargers",3,NA
+"Los Angeles Chargers",4,NA
+"Los Angeles Chargers",5,NA
+"Los Angeles Chargers",6,NA
+"Los Angeles Chargers",7,NA
+"Los Angeles Chargers",8,NA
+"Los Angeles Chargers",9,NA
+"Los Angeles Chargers",10,NA
+"Los Angeles Chargers",11,NA
+"Los Angeles Chargers",12,NA
+"Los Angeles Chargers",13,NA
+"Los Angeles Chargers",14,NA
+"Los Angeles Chargers",15,NA
+"Los Angeles Chargers",16,NA
+"Los Angeles Chargers",17,NA
+"Los Angeles Rams",0,NA
+"Los Angeles Rams",1,NA
+"Los Angeles Rams",2,NA
+"Los Angeles Rams",3,NA
+"Los Angeles Rams",4,NA
+"Los Angeles Rams",5,NA
+"Los Angeles Rams",6,NA
+"Los Angeles Rams",7,NA
+"Los Angeles Rams",8,NA
+"Los Angeles Rams",9,NA
+"Los Angeles Rams",10,NA
+"Los Angeles Rams",11,NA
+"Los Angeles Rams",12,NA
+"Los Angeles Rams",13,NA
+"Los Angeles Rams",14,NA
+"Los Angeles Rams",15,NA
+"Los Angeles Rams",16,NA
+"Los Angeles Rams",17,NA
+"Miami Dolphins",0,NA
+"Miami Dolphins",1,NA
+"Miami Dolphins",2,NA
+"Miami Dolphins",3,NA
+"Miami Dolphins",4,NA
+"Miami Dolphins",5,NA
+"Miami Dolphins",6,NA
+"Miami Dolphins",7,NA
+"Miami Dolphins",8,NA
+"Miami Dolphins",9,NA
+"Miami Dolphins",10,NA
+"Miami Dolphins",11,NA
+"Miami Dolphins",12,NA
+"Miami Dolphins",13,NA
+"Miami Dolphins",14,NA
+"Miami Dolphins",15,NA
+"Miami Dolphins",16,NA
+"Miami Dolphins",17,NA
+"Minnesota Vikings",0,NA
+"Minnesota Vikings",1,NA
+"Minnesota Vikings",2,NA
+"Minnesota Vikings",3,NA
+"Minnesota Vikings",4,NA
+"Minnesota Vikings",5,NA
+"Minnesota Vikings",6,NA
+"Minnesota Vikings",7,NA
+"Minnesota Vikings",8,NA
+"Minnesota Vikings",9,NA
+"Minnesota Vikings",10,NA
+"Minnesota Vikings",11,NA
+"Minnesota Vikings",12,NA
+"Minnesota Vikings",13,NA
+"Minnesota Vikings",14,NA
+"Minnesota Vikings",15,NA
+"Minnesota Vikings",16,NA
+"Minnesota Vikings",17,NA
+"New England Patriots",0,NA
+"New England Patriots",1,NA
+"New England Patriots",2,NA
+"New England Patriots",3,NA
+"New England Patriots",4,NA
+"New England Patriots",5,NA
+"New England Patriots",6,NA
+"New England Patriots",7,NA
+"New England Patriots",8,NA
+"New England Patriots",9,NA
+"New England Patriots",10,NA
+"New England Patriots",11,NA
+"New England Patriots",12,NA
+"New England Patriots",13,NA
+"New England Patriots",14,NA
+"New England Patriots",15,NA
+"New England Patriots",16,NA
+"New England Patriots",17,NA
+"New Orleans Saints",0,NA
+"New Orleans Saints",1,NA
+"New Orleans Saints",2,NA
+"New Orleans Saints",3,NA
+"New Orleans Saints",4,NA
+"New Orleans Saints",5,NA
+"New Orleans Saints",6,NA
+"New Orleans Saints",7,NA
+"New Orleans Saints",8,NA
+"New Orleans Saints",9,NA
+"New Orleans Saints",10,NA
+"New Orleans Saints",11,NA
+"New Orleans Saints",12,NA
+"New Orleans Saints",13,NA
+"New Orleans Saints",14,NA
+"New Orleans Saints",15,NA
+"New Orleans Saints",16,NA
+"New Orleans Saints",17,NA
+"New York Giants",0,NA
+"New York Giants",1,NA
+"New York Giants",2,NA
+"New York Giants",3,NA
+"New York Giants",4,NA
+"New York Giants",5,NA
+"New York Giants",6,NA
+"New York Giants",7,NA
+"New York Giants",8,NA
+"New York Giants",9,NA
+"New York Giants",10,NA
+"New York Giants",11,NA
+"New York Giants",12,NA
+"New York Giants",13,NA
+"New York Giants",14,NA
+"New York Giants",15,NA
+"New York Giants",16,NA
+"New York Giants",17,NA
+"New York Jets",0,NA
+"New York Jets",1,NA
+"New York Jets",2,NA
+"New York Jets",3,NA
+"New York Jets",4,NA
+"New York Jets",5,NA
+"New York Jets",6,NA
+"New York Jets",7,NA
+"New York Jets",8,NA
+"New York Jets",9,NA
+"New York Jets",10,NA
+"New York Jets",11,NA
+"New York Jets",12,NA
+"New York Jets",13,NA
+"New York Jets",14,NA
+"New York Jets",15,NA
+"New York Jets",16,NA
+"New York Jets",17,NA
+"Philadelphia Eagles",0,NA
+"Philadelphia Eagles",1,NA
+"Philadelphia Eagles",2,NA
+"Philadelphia Eagles",3,NA
+"Philadelphia Eagles",4,NA
+"Philadelphia Eagles",5,NA
+"Philadelphia Eagles",6,NA
+"Philadelphia Eagles",7,NA
+"Philadelphia Eagles",8,NA
+"Philadelphia Eagles",9,NA
+"Philadelphia Eagles",10,NA
+"Philadelphia Eagles",11,NA
+"Philadelphia Eagles",12,NA
+"Philadelphia Eagles",13,NA
+"Philadelphia Eagles",14,NA
+"Philadelphia Eagles",15,NA
+"Philadelphia Eagles",16,NA
+"Philadelphia Eagles",17,NA
+"Pittsburgh Steelers",0,NA
+"Pittsburgh Steelers",1,NA
+"Pittsburgh Steelers",2,NA
+"Pittsburgh Steelers",3,NA
+"Pittsburgh Steelers",4,NA
+"Pittsburgh Steelers",5,NA
+"Pittsburgh Steelers",6,NA
+"Pittsburgh Steelers",7,NA
+"Pittsburgh Steelers",8,NA
+"Pittsburgh Steelers",9,NA
+"Pittsburgh Steelers",10,NA
+"Pittsburgh Steelers",11,NA
+"Pittsburgh Steelers",12,NA
+"Pittsburgh Steelers",13,NA
+"Pittsburgh Steelers",14,NA
+"Pittsburgh Steelers",15,NA
+"Pittsburgh Steelers",16,NA
+"Pittsburgh Steelers",17,NA
+"San Francisco 49ers",0,NA
+"San Francisco 49ers",1,NA
+"San Francisco 49ers",2,NA
+"San Francisco 49ers",3,NA
+"San Francisco 49ers",4,NA
+"San Francisco 49ers",5,NA
+"San Francisco 49ers",6,NA
+"San Francisco 49ers",7,NA
+"San Francisco 49ers",8,NA
+"San Francisco 49ers",9,NA
+"San Francisco 49ers",10,NA
+"San Francisco 49ers",11,NA
+"San Francisco 49ers",12,NA
+"San Francisco 49ers",13,NA
+"San Francisco 49ers",14,NA
+"San Francisco 49ers",15,NA
+"San Francisco 49ers",16,NA
+"San Francisco 49ers",17,NA
+"Seattle Seahawks",0,NA
+"Seattle Seahawks",1,NA
+"Seattle Seahawks",2,NA
+"Seattle Seahawks",3,NA
+"Seattle Seahawks",4,NA
+"Seattle Seahawks",5,NA
+"Seattle Seahawks",6,NA
+"Seattle Seahawks",7,NA
+"Seattle Seahawks",8,NA
+"Seattle Seahawks",9,NA
+"Seattle Seahawks",10,NA
+"Seattle Seahawks",11,NA
+"Seattle Seahawks",12,NA
+"Seattle Seahawks",13,NA
+"Seattle Seahawks",14,NA
+"Seattle Seahawks",15,NA
+"Seattle Seahawks",16,NA
+"Seattle Seahawks",17,NA
+"Tampa Bay Buccaneers",0,NA
+"Tampa Bay Buccaneers",1,NA
+"Tampa Bay Buccaneers",2,NA
+"Tampa Bay Buccaneers",3,NA
+"Tampa Bay Buccaneers",4,NA
+"Tampa Bay Buccaneers",5,NA
+"Tampa Bay Buccaneers",6,NA
+"Tampa Bay Buccaneers",7,NA
+"Tampa Bay Buccaneers",8,NA
+"Tampa Bay Buccaneers",9,NA
+"Tampa Bay Buccaneers",10,NA
+"Tampa Bay Buccaneers",11,NA
+"Tampa Bay Buccaneers",12,NA
+"Tampa Bay Buccaneers",13,NA
+"Tampa Bay Buccaneers",14,NA
+"Tampa Bay Buccaneers",15,NA
+"Tampa Bay Buccaneers",16,NA
+"Tampa Bay Buccaneers",17,NA
+"Tennessee Titans",0,NA
+"Tennessee Titans",1,NA
+"Tennessee Titans",2,NA
+"Tennessee Titans",3,NA
+"Tennessee Titans",4,NA
+"Tennessee Titans",5,NA
+"Tennessee Titans",6,NA
+"Tennessee Titans",7,NA
+"Tennessee Titans",8,NA
+"Tennessee Titans",9,NA
+"Tennessee Titans",10,NA
+"Tennessee Titans",11,NA
+"Tennessee Titans",12,NA
+"Tennessee Titans",13,NA
+"Tennessee Titans",14,NA
+"Tennessee Titans",15,NA
+"Tennessee Titans",16,NA
+"Tennessee Titans",17,NA
+"Washington Commanders",0,NA
+"Washington Commanders",1,NA
+"Washington Commanders",2,NA
+"Washington Commanders",3,NA
+"Washington Commanders",4,NA
+"Washington Commanders",5,NA
+"Washington Commanders",6,NA
+"Washington Commanders",7,NA
+"Washington Commanders",8,NA
+"Washington Commanders",9,NA
+"Washington Commanders",10,NA
+"Washington Commanders",11,NA
+"Washington Commanders",12,NA
+"Washington Commanders",13,NA
+"Washington Commanders",14,NA
+"Washington Commanders",15,NA
+"Washington Commanders",16,NA
+"Washington Commanders",17,NA

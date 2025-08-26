@@ -1,0 +1,48 @@
+---
+title: "SDS 4135 - Project 1"
+subtitle: "Due "
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# NFL season predictions
+
+Your task is to provide probabilities for the number of wins of each NFL
+team in the 2025 regular season. You will turn in a .csv file with
+your probabilities using the template that I provide.
+
+The NFL season consists of a "regular" season and playoffs. Your task is to
+predict the regular season wins.
+
+To help build your probabilities, I have provided a dataset with the outcomes
+of the last 10 NFL regular seasons. Note that, starting in 2021, the NFL switched
+from a 16-game to a 17-game regular season. I have also provided a dataset
+with the results of the playoffs for these 10 seasons. 
+
+In building your predictions, you are free to use any external sources you wish.
+However, in your report, I would like you to present at least one analysis that 
+uses only the data I have provided. If you use external sources, please write
+about them in your report.
+
+# Datasets
+
+Both datasets were downloaded from www.pro-football-reference.com. See for
+example:
+
+https://www.pro-football-reference.com/years/2024/
+
+That page has a glossary explaining each column in the dataset. The year column in the regular season standings dataset refers to the year in which the season started (typically late summer). The playoffs occur after the regular season, usually after January 1. This means that if a playoff game has a date in January of 2024, this is a game from the playoffs following the 2023 regular season.
+
+Note that a few teams have changed names during the past 10 years:
+
+St. Louis Rams --> Los Angeles Rams
+
+Oakland Raiders --> Las Vegas Raiders
+
+Washington Redskins --> Washington Football Team --> Washington Commanders
+
+San Diego Chargers --> Los Angeles Chargers
+

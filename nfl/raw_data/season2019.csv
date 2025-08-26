@@ -1,0 +1,276 @@
+--- When using SR data, please cite us and provide a link and/or a mention.
+
+
+ 
+Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
+1,Thu,2019-09-05,8:20PM,Green Bay Packers,@,Chicago Bears,boxscore,10,3,213,0,254,1
+1,Sun,2019-09-08,1:00PM,Minnesota Vikings,,Atlanta Falcons,boxscore,28,12,269,0,345,3
+1,Sun,2019-09-08,1:00PM,Buffalo Bills,@,New York Jets,boxscore,17,16,370,4,223,1
+1,Sun,2019-09-08,1:00PM,Los Angeles Rams,@,Carolina Panthers,boxscore,30,27,349,1,343,3
+1,Sun,2019-09-08,1:00PM,Tennessee Titans,@,Cleveland Browns,boxscore,43,13,339,0,346,3
+1,Sun,2019-09-08,1:00PM,Kansas City Chiefs,@,Jacksonville Jaguars,boxscore,40,26,491,0,428,2
+1,Sun,2019-09-08,1:00PM,Baltimore Ravens,@,Miami Dolphins,boxscore,59,10,643,0,200,3
+1,Sun,2019-09-08,1:00PM,Philadelphia Eagles,,Washington Redskins,boxscore,32,27,436,0,398,0
+1,Sun,2019-09-08,4:05PM,Seattle Seahawks,,Cincinnati Bengals,boxscore,21,20,232,1,429,3
+1,Sun,2019-09-08,4:05PM,Los Angeles Chargers,,Indianapolis Colts,boxscore,30,24,435,2,376,0
+1,Sun,2019-09-08,4:25PM,Detroit Lions,@,Arizona Cardinals,boxscore,27,27,477,2,387,1
+1,Sun,2019-09-08,4:25PM,Dallas Cowboys,,New York Giants,boxscore,35,17,494,0,470,2
+1,Sun,2019-09-08,4:25PM,San Francisco 49ers,@,Tampa Bay Buccaneers,boxscore,31,17,256,2,295,4
+1,Sun,2019-09-08,8:20PM,New England Patriots,,Pittsburgh Steelers,boxscore,33,3,465,0,308,1
+1,Mon,2019-09-09,7:10PM,New Orleans Saints,,Houston Texans,boxscore,30,28,510,1,414,1
+1,Mon,2019-09-09,10:20PM,Oakland Raiders,,Denver Broncos,boxscore,24,16,357,0,344,0
+2,Thu,2019-09-12,8:20PM,Tampa Bay Buccaneers,@,Carolina Panthers,boxscore,20,14,289,0,352,1
+2,Sun,2019-09-15,1:00PM,Buffalo Bills,@,New York Giants,boxscore,28,14,388,0,370,2
+2,Sun,2019-09-15,1:00PM,San Francisco 49ers,@,Cincinnati Bengals,boxscore,41,17,571,1,316,1
+2,Sun,2019-09-15,1:00PM,Indianapolis Colts,@,Tennessee Titans,boxscore,19,17,288,2,243,0
+2,Sun,2019-09-15,1:00PM,Baltimore Ravens,,Arizona Cardinals,boxscore,23,17,440,0,349,0
+2,Sun,2019-09-15,1:00PM,Dallas Cowboys,@,Washington Redskins,boxscore,31,21,474,1,255,0
+2,Sun,2019-09-15,1:00PM,Detroit Lions,,Los Angeles Chargers,boxscore,13,10,339,2,424,2
+2,Sun,2019-09-15,1:00PM,Green Bay Packers,,Minnesota Vikings,boxscore,21,16,335,2,421,4
+2,Sun,2019-09-15,1:00PM,Houston Texans,,Jacksonville Jaguars,boxscore,13,12,263,0,281,1
+2,Sun,2019-09-15,1:00PM,New England Patriots,@,Miami Dolphins,boxscore,43,0,379,1,184,4
+2,Sun,2019-09-15,1:00PM,Seattle Seahawks,@,Pittsburgh Steelers,boxscore,28,26,425,2,261,1
+2,Sun,2019-09-15,4:05PM,Kansas City Chiefs,@,Oakland Raiders,boxscore,28,10,467,1,307,2
+2,Sun,2019-09-15,4:25PM,Chicago Bears,@,Denver Broncos,boxscore,16,14,273,0,372,1
+2,Sun,2019-09-15,4:25PM,Los Angeles Rams,,New Orleans Saints,boxscore,27,9,380,1,244,1
+2,Sun,2019-09-15,8:20PM,Atlanta Falcons,,Philadelphia Eagles,boxscore,24,20,367,3,286,3
+2,Mon,2019-09-16,8:15PM,Cleveland Browns,@,New York Jets,boxscore,23,3,375,1,262,1
+3,Thu,2019-09-19,8:20PM,Jacksonville Jaguars,,Tennessee Titans,boxscore,20,7,292,0,340,1
+3,Sun,2019-09-22,1:00PM,Indianapolis Colts,,Atlanta Falcons,boxscore,27,24,379,0,397,1
+3,Sun,2019-09-22,1:00PM,Buffalo Bills,,Cincinnati Bengals,boxscore,21,17,416,2,306,4
+3,Sun,2019-09-22,1:00PM,Dallas Cowboys,,Miami Dolphins,boxscore,31,6,476,1,283,1
+3,Sun,2019-09-22,1:00PM,Green Bay Packers,,Denver Broncos,boxscore,27,16,312,0,310,3
+3,Sun,2019-09-22,1:00PM,Detroit Lions,@,Philadelphia Eagles,boxscore,27,24,287,0,373,2
+3,Sun,2019-09-22,1:00PM,Kansas City Chiefs,,Baltimore Ravens,boxscore,33,28,503,0,452,0
+3,Sun,2019-09-22,1:00PM,Minnesota Vikings,,Oakland Raiders,boxscore,34,14,385,0,302,1
+3,Sun,2019-09-22,1:00PM,New England Patriots,,New York Jets,boxscore,30,14,381,2,105,1
+3,Sun,2019-09-22,4:05PM,Carolina Panthers,@,Arizona Cardinals,boxscore,38,20,413,1,248,2
+3,Sun,2019-09-22,4:05PM,New York Giants,@,Tampa Bay Buccaneers,boxscore,32,31,384,2,499,1
+3,Sun,2019-09-22,4:25PM,Houston Texans,@,Los Angeles Chargers,boxscore,27,20,376,1,366,1
+3,Sun,2019-09-22,4:25PM,New Orleans Saints,@,Seattle Seahawks,boxscore,33,27,265,1,514,1
+3,Sun,2019-09-22,4:25PM,San Francisco 49ers,,Pittsburgh Steelers,boxscore,24,20,436,5,239,2
+3,Sun,2019-09-22,8:20PM,Los Angeles Rams,@,Cleveland Browns,boxscore,20,13,344,3,270,1
+3,Mon,2019-09-23,8:15PM,Chicago Bears,@,Washington Redskins,boxscore,31,15,298,1,356,5
+4,Thu,2019-09-26,8:20PM,Philadelphia Eagles,@,Green Bay Packers,boxscore,34,27,336,0,491,2
+4,Sun,2019-09-29,1:00PM,Tennessee Titans,@,Atlanta Falcons,boxscore,24,10,365,0,422,1
+4,Sun,2019-09-29,1:00PM,New England Patriots,@,Buffalo Bills,boxscore,16,10,224,1,375,4
+4,Sun,2019-09-29,1:00PM,Carolina Panthers,@,Houston Texans,boxscore,16,10,297,3,264,2
+4,Sun,2019-09-29,1:00PM,Cleveland Browns,@,Baltimore Ravens,boxscore,40,25,530,1,395,3
+4,Sun,2019-09-29,1:00PM,Oakland Raiders,@,Indianapolis Colts,boxscore,31,24,377,1,346,2
+4,Sun,2019-09-29,1:00PM,Kansas City Chiefs,@,Detroit Lions,boxscore,34,30,438,3,447,2
+4,Sun,2019-09-29,1:00PM,Los Angeles Chargers,@,Miami Dolphins,boxscore,30,10,390,0,233,1
+4,Sun,2019-09-29,1:00PM,New York Giants,,Washington Redskins,boxscore,24,3,389,4,176,4
+4,Sun,2019-09-29,4:05PM,Seattle Seahawks,@,Arizona Cardinals,boxscore,27,10,340,0,321,1
+4,Sun,2019-09-29,4:05PM,Tampa Bay Buccaneers,@,Los Angeles Rams,boxscore,55,40,464,1,518,4
+4,Sun,2019-09-29,4:25PM,Chicago Bears,,Minnesota Vikings,boxscore,16,6,269,0,222,2
+4,Sun,2019-09-29,4:25PM,Jacksonville Jaguars,@,Denver Broncos,boxscore,26,24,455,0,371,1
+4,Sun,2019-09-29,8:20PM,New Orleans Saints,,Dallas Cowboys,boxscore,12,10,266,1,257,3
+4,Mon,2019-09-30,8:15PM,Pittsburgh Steelers,,Cincinnati Bengals,boxscore,27,3,326,1,175,2
+5,Thu,2019-10-03,8:20PM,Seattle Seahawks,,Los Angeles Rams,boxscore,30,29,429,1,477,2
+5,Sun,2019-10-06,1:00PM,Philadelphia Eagles,,New York Jets,boxscore,31,6,265,1,128,3
+5,Sun,2019-10-06,1:00PM,Houston Texans,,Atlanta Falcons,boxscore,53,32,592,1,373,1
+5,Sun,2019-10-06,1:00PM,Buffalo Bills,@,Tennessee Titans,boxscore,14,7,313,1,252,0
+5,Sun,2019-10-06,1:00PM,Carolina Panthers,,Jacksonville Jaguars,boxscore,34,27,445,0,507,3
+5,Sun,2019-10-06,1:00PM,Oakland Raiders,,Chicago Bears,boxscore,24,21,398,2,236,2
+5,Sun,2019-10-06,1:00PM,Arizona Cardinals,@,Cincinnati Bengals,boxscore,26,23,514,0,370,0
+5,Sun,2019-10-06,1:00PM,Minnesota Vikings,@,New York Giants,boxscore,28,10,490,1,211,1
+5,Sun,2019-10-06,1:00PM,New Orleans Saints,,Tampa Bay Buccaneers,boxscore,31,24,457,1,252,0
+5,Sun,2019-10-06,1:00PM,New England Patriots,@,Washington Redskins,boxscore,33,7,442,1,223,2
+5,Sun,2019-10-06,1:00PM,Baltimore Ravens,@,Pittsburgh Steelers,boxscore,26,23,277,3,269,2
+5,Sun,2019-10-06,4:05PM,Denver Broncos,@,Los Angeles Chargers,boxscore,20,13,350,2,246,3
+5,Sun,2019-10-06,4:25PM,Green Bay Packers,@,Dallas Cowboys,boxscore,34,24,335,0,563,3
+5,Sun,2019-10-06,8:20PM,Indianapolis Colts,@,Kansas City Chiefs,boxscore,19,13,331,1,324,1
+5,Mon,2019-10-07,8:15PM,San Francisco 49ers,,Cleveland Browns,boxscore,31,3,446,0,180,4
+6,Thu,2019-10-10,8:20PM,New England Patriots,,New York Giants,boxscore,35,14,427,2,213,4
+6,Sun,2019-10-13,9:30AM,Carolina Panthers,@,Tampa Bay Buccaneers,boxscore,37,26,268,1,407,7
+6,Sun,2019-10-13,1:00PM,Washington Redskins,@,Miami Dolphins,boxscore,17,16,311,0,271,2
+6,Sun,2019-10-13,1:00PM,Baltimore Ravens,,Cincinnati Bengals,boxscore,23,17,497,1,250,1
+6,Sun,2019-10-13,1:00PM,Seattle Seahawks,@,Cleveland Browns,boxscore,32,28,454,1,406,4
+6,Sun,2019-10-13,1:00PM,Houston Texans,@,Kansas City Chiefs,boxscore,31,24,472,3,309,2
+6,Sun,2019-10-13,1:00PM,New Orleans Saints,@,Jacksonville Jaguars,boxscore,13,6,326,0,226,1
+6,Sun,2019-10-13,1:00PM,Minnesota Vikings,,Philadelphia Eagles,boxscore,38,20,447,2,400,3
+6,Sun,2019-10-13,4:05PM,Arizona Cardinals,,Atlanta Falcons,boxscore,34,33,442,0,444,0
+6,Sun,2019-10-13,4:05PM,San Francisco 49ers,@,Los Angeles Rams,boxscore,20,7,331,2,157,1
+6,Sun,2019-10-13,4:25PM,New York Jets,,Dallas Cowboys,boxscore,24,22,382,1,399,0
+6,Sun,2019-10-13,4:25PM,Denver Broncos,,Tennessee Titans,boxscore,16,0,270,1,204,3
+6,Sun,2019-10-13,8:20PM,Pittsburgh Steelers,@,Los Angeles Chargers,boxscore,24,17,256,1,348,3
+6,Mon,2019-10-14,8:15PM,Green Bay Packers,,Detroit Lions,boxscore,23,22,447,3,299,0
+7,Thu,2019-10-17,8:20PM,Kansas City Chiefs,@,Denver Broncos,boxscore,30,6,271,0,205,1
+7,Sun,2019-10-20,1:00PM,Buffalo Bills,,Miami Dolphins,boxscore,31,21,305,0,381,2
+7,Sun,2019-10-20,1:00PM,Indianapolis Colts,,Houston Texans,boxscore,30,23,383,1,391,2
+7,Sun,2019-10-20,1:00PM,Minnesota Vikings,@,Detroit Lions,boxscore,42,30,504,0,433,1
+7,Sun,2019-10-20,1:00PM,San Francisco 49ers,@,Washington Redskins,boxscore,9,0,283,1,154,1
+7,Sun,2019-10-20,1:00PM,Los Angeles Rams,@,Atlanta Falcons,boxscore,37,10,381,0,224,3
+7,Sun,2019-10-20,1:00PM,Jacksonville Jaguars,@,Cincinnati Bengals,boxscore,27,17,460,0,291,4
+7,Sun,2019-10-20,1:00PM,Arizona Cardinals,@,New York Giants,boxscore,27,21,245,0,263,3
+7,Sun,2019-10-20,1:00PM,Green Bay Packers,,Oakland Raiders,boxscore,42,24,481,0,484,2
+7,Sun,2019-10-20,4:05PM,Tennessee Titans,,Los Angeles Chargers,boxscore,23,20,403,1,365,1
+7,Sun,2019-10-20,4:25PM,New Orleans Saints,@,Chicago Bears,boxscore,36,25,424,0,252,2
+7,Sun,2019-10-20,4:25PM,Baltimore Ravens,@,Seattle Seahawks,boxscore,30,16,340,0,347,2
+7,Sun,2019-10-20,8:20PM,Dallas Cowboys,,Philadelphia Eagles,boxscore,37,10,402,1,283,4
+7,Mon,2019-10-21,8:15PM,New England Patriots,@,New York Jets,boxscore,33,0,323,1,154,6
+8,Thu,2019-10-24,8:20PM,Minnesota Vikings,,Washington Redskins,boxscore,19,9,434,1,216,2
+8,Sun,2019-10-27,1:00PM,Philadelphia Eagles,@,Buffalo Bills,boxscore,31,13,371,1,253,1
+8,Sun,2019-10-27,1:00PM,Los Angeles Chargers,@,Chicago Bears,boxscore,17,16,231,1,388,2
+8,Sun,2019-10-27,1:00PM,Indianapolis Colts,,Denver Broncos,boxscore,15,13,318,1,279,0
+8,Sun,2019-10-27,1:00PM,Detroit Lions,,New York Giants,boxscore,31,26,375,2,370,1
+8,Sun,2019-10-27,1:00PM,Seattle Seahawks,@,Atlanta Falcons,boxscore,27,20,322,0,510,3
+8,Sun,2019-10-27,1:00PM,Los Angeles Rams,,Cincinnati Bengals,boxscore,24,10,470,0,401,0
+8,Sun,2019-10-27,1:00PM,New Orleans Saints,,Arizona Cardinals,boxscore,31,9,510,1,237,0
+8,Sun,2019-10-27,1:00PM,Jacksonville Jaguars,,New York Jets,boxscore,29,15,389,1,213,3
+8,Sun,2019-10-27,1:00PM,Tennessee Titans,,Tampa Bay Buccaneers,boxscore,27,23,246,1,389,4
+8,Sun,2019-10-27,4:05PM,San Francisco 49ers,,Carolina Panthers,boxscore,51,13,388,1,230,3
+8,Sun,2019-10-27,4:25PM,New England Patriots,,Cleveland Browns,boxscore,27,13,318,0,310,3
+8,Sun,2019-10-27,4:25PM,Houston Texans,,Oakland Raiders,boxscore,27,24,388,0,378,0
+8,Sun,2019-10-27,8:20PM,Green Bay Packers,@,Kansas City Chiefs,boxscore,31,24,374,0,337,1
+8,Mon,2019-10-28,8:15PM,Pittsburgh Steelers,,Miami Dolphins,boxscore,27,14,394,1,230,4
+9,Thu,2019-10-31,8:20PM,San Francisco 49ers,@,Arizona Cardinals,boxscore,28,25,411,0,357,0
+9,Sun,2019-11-03,9:30AM,Houston Texans,@,Jacksonville Jaguars,boxscore,26,3,410,1,356,4
+9,Sun,2019-11-03,1:00PM,Buffalo Bills,,Washington Redskins,boxscore,24,9,268,0,243,0
+9,Sun,2019-11-03,1:00PM,Carolina Panthers,,Tennessee Titans,boxscore,30,20,370,1,431,3
+9,Sun,2019-11-03,1:00PM,Philadelphia Eagles,,Chicago Bears,boxscore,22,14,373,0,164,1
+9,Sun,2019-11-03,1:00PM,Pittsburgh Steelers,,Indianapolis Colts,boxscore,26,24,273,2,328,3
+9,Sun,2019-11-03,1:00PM,Miami Dolphins,,New York Jets,boxscore,26,18,316,0,321,1
+9,Sun,2019-11-03,1:00PM,Kansas City Chiefs,,Minnesota Vikings,boxscore,26,23,377,1,308,0
+9,Sun,2019-11-03,4:05PM,Oakland Raiders,,Detroit Lions,boxscore,31,24,450,0,473,2
+9,Sun,2019-11-03,4:05PM,Seattle Seahawks,,Tampa Bay Buccaneers,boxscore,40,34,492,1,418,1
+9,Sun,2019-11-03,4:25PM,Denver Broncos,,Cleveland Browns,boxscore,24,19,302,1,351,0
+9,Sun,2019-11-03,4:25PM,Los Angeles Chargers,,Green Bay Packers,boxscore,26,11,442,0,184,0
+9,Sun,2019-11-03,8:20PM,Baltimore Ravens,,New England Patriots,boxscore,37,20,372,2,342,2
+9,Mon,2019-11-04,8:15PM,Dallas Cowboys,@,New York Giants,boxscore,37,18,429,2,271,3
+10,Thu,2019-11-07,8:20PM,Oakland Raiders,,Los Angeles Chargers,boxscore,26,24,278,0,315,3
+10,Sun,2019-11-10,1:00PM,Atlanta Falcons,@,New Orleans Saints,boxscore,26,9,317,1,310,0
+10,Sun,2019-11-10,1:00PM,Cleveland Browns,,Buffalo Bills,boxscore,19,16,368,0,344,0
+10,Sun,2019-11-10,1:00PM,Chicago Bears,,Detroit Lions,boxscore,20,13,226,0,357,1
+10,Sun,2019-11-10,1:00PM,Baltimore Ravens,@,Cincinnati Bengals,boxscore,49,13,379,1,307,3
+10,Sun,2019-11-10,1:00PM,Tampa Bay Buccaneers,,Arizona Cardinals,boxscore,30,27,457,3,417,2
+10,Sun,2019-11-10,1:00PM,Tennessee Titans,,Kansas City Chiefs,boxscore,35,32,371,1,530,1
+10,Sun,2019-11-10,1:00PM,New York Jets,,New York Giants,boxscore,34,27,294,0,281,2
+10,Sun,2019-11-10,4:05PM,Miami Dolphins,@,Indianapolis Colts,boxscore,16,12,229,2,300,3
+10,Sun,2019-11-10,4:25PM,Green Bay Packers,,Carolina Panthers,boxscore,24,16,388,0,401,2
+10,Sun,2019-11-10,4:25PM,Pittsburgh Steelers,,Los Angeles Rams,boxscore,17,12,273,2,306,4
+10,Sun,2019-11-10,8:20PM,Minnesota Vikings,@,Dallas Cowboys,boxscore,28,24,364,0,443,1
+10,Mon,2019-11-11,8:15PM,Seattle Seahawks,@,San Francisco 49ers,boxscore,27,24,336,4,302,3
+11,Thu,2019-11-14,8:20PM,Cleveland Browns,,Pittsburgh Steelers,boxscore,21,7,293,0,236,4
+11,Sun,2019-11-17,1:00PM,Atlanta Falcons,@,Carolina Panthers,boxscore,29,3,349,0,347,4
+11,Sun,2019-11-17,1:00PM,Buffalo Bills,@,Miami Dolphins,boxscore,37,20,424,0,303,1
+11,Sun,2019-11-17,1:00PM,Indianapolis Colts,,Jacksonville Jaguars,boxscore,33,13,389,2,308,1
+11,Sun,2019-11-17,1:00PM,Dallas Cowboys,@,Detroit Lions,boxscore,35,27,509,1,312,0
+11,Sun,2019-11-17,1:00PM,Minnesota Vikings,,Denver Broncos,boxscore,27,23,321,2,394,1
+11,Sun,2019-11-17,1:00PM,Baltimore Ravens,,Houston Texans,boxscore,41,7,491,0,232,2
+11,Sun,2019-11-17,1:00PM,New Orleans Saints,@,Tampa Bay Buccaneers,boxscore,34,17,328,0,334,4
+11,Sun,2019-11-17,1:00PM,New York Jets,@,Washington Redskins,boxscore,34,17,400,2,225,1
+11,Sun,2019-11-17,4:05PM,San Francisco 49ers,,Arizona Cardinals,boxscore,36,26,442,2,266,2
+11,Sun,2019-11-17,4:25PM,Oakland Raiders,,Cincinnati Bengals,boxscore,17,10,386,2,246,2
+11,Sun,2019-11-17,4:25PM,New England Patriots,@,Philadelphia Eagles,boxscore,17,10,298,0,255,1
+11,Sun,2019-11-17,8:20PM,Los Angeles Rams,,Chicago Bears,boxscore,17,7,283,2,267,1
+11,Mon,2019-11-18,8:15PM,Kansas City Chiefs,@,Los Angeles Chargers,boxscore,24,17,310,1,438,4
+12,Thu,2019-11-21,8:20PM,Houston Texans,,Indianapolis Colts,boxscore,20,17,396,1,296,0
+12,Sun,2019-11-24,1:00PM,Tampa Bay Buccaneers,@,Atlanta Falcons,boxscore,35,22,446,2,337,2
+12,Sun,2019-11-24,1:00PM,Buffalo Bills,,Denver Broncos,boxscore,20,3,424,1,134,1
+12,Sun,2019-11-24,1:00PM,New Orleans Saints,,Carolina Panthers,boxscore,34,31,418,1,351,1
+12,Sun,2019-11-24,1:00PM,Chicago Bears,,New York Giants,boxscore,19,14,335,2,243,1
+12,Sun,2019-11-24,1:00PM,Pittsburgh Steelers,@,Cincinnati Bengals,boxscore,16,10,338,1,244,2
+12,Sun,2019-11-24,1:00PM,Cleveland Browns,,Miami Dolphins,boxscore,41,24,467,1,284,2
+12,Sun,2019-11-24,1:00PM,Washington Redskins,,Detroit Lions,boxscore,19,16,230,2,364,4
+12,Sun,2019-11-24,1:00PM,New York Jets,,Oakland Raiders,boxscore,34,3,401,1,208,2
+12,Sun,2019-11-24,1:00PM,Seattle Seahawks,@,Philadelphia Eagles,boxscore,17,9,348,2,344,5
+12,Sun,2019-11-24,4:05PM,Tennessee Titans,,Jacksonville Jaguars,boxscore,42,20,471,2,369,1
+12,Sun,2019-11-24,4:25PM,New England Patriots,,Dallas Cowboys,boxscore,13,9,282,0,321,1
+12,Sun,2019-11-24,8:20PM,San Francisco 49ers,,Green Bay Packers,boxscore,37,8,339,0,198,1
+12,Mon,2019-11-25,8:15PM,Baltimore Ravens,@,Los Angeles Rams,boxscore,45,6,480,0,221,2
+13,Thu,2019-11-28,12:30PM,Chicago Bears,@,Detroit Lions,boxscore,24,20,419,1,364,1
+13,Thu,2019-11-28,4:30PM,Buffalo Bills,@,Dallas Cowboys,boxscore,26,15,356,0,426,2
+13,Thu,2019-11-28,8:20PM,New Orleans Saints,@,Atlanta Falcons,boxscore,26,18,279,0,348,3
+13,Sun,2019-12-01,1:00PM,Washington Redskins,@,Carolina Panthers,boxscore,29,21,362,0,278,2
+13,Sun,2019-12-01,1:00PM,Cincinnati Bengals,,New York Jets,boxscore,22,6,277,0,271,0
+13,Sun,2019-12-01,1:00PM,Pittsburgh Steelers,,Cleveland Browns,boxscore,20,13,323,1,279,2
+13,Sun,2019-12-01,1:00PM,Tennessee Titans,@,Indianapolis Colts,boxscore,31,17,292,2,391,3
+13,Sun,2019-12-01,1:00PM,Green Bay Packers,@,New York Giants,boxscore,31,13,322,0,335,3
+13,Sun,2019-12-01,1:00PM,Tampa Bay Buccaneers,@,Jacksonville Jaguars,boxscore,28,11,315,1,242,4
+13,Sun,2019-12-01,1:00PM,Miami Dolphins,,Philadelphia Eagles,boxscore,37,31,409,1,386,1
+13,Sun,2019-12-01,1:00PM,Baltimore Ravens,,San Francisco 49ers,boxscore,20,17,283,1,331,1
+13,Sun,2019-12-01,4:05PM,Los Angeles Rams,@,Arizona Cardinals,boxscore,34,7,549,0,198,1
+13,Sun,2019-12-01,4:25PM,Denver Broncos,,Los Angeles Chargers,boxscore,23,20,218,1,359,2
+13,Sun,2019-12-01,4:25PM,Kansas City Chiefs,,Oakland Raiders,boxscore,40,9,259,0,332,3
+13,Sun,2019-12-01,8:20PM,Houston Texans,,New England Patriots,boxscore,28,22,276,0,448,1
+13,Mon,2019-12-02,8:15PM,Seattle Seahawks,,Minnesota Vikings,boxscore,37,30,444,2,354,3
+14,Thu,2019-12-05,8:20PM,Chicago Bears,,Dallas Cowboys,boxscore,31,24,382,2,408,0
+14,Sun,2019-12-08,1:00PM,Atlanta Falcons,,Carolina Panthers,boxscore,40,20,461,0,345,4
+14,Sun,2019-12-08,1:00PM,Baltimore Ravens,@,Buffalo Bills,boxscore,24,17,257,1,209,1
+14,Sun,2019-12-08,1:00PM,Cleveland Browns,,Cincinnati Bengals,boxscore,27,19,333,2,451,1
+14,Sun,2019-12-08,1:00PM,Tampa Bay Buccaneers,,Indianapolis Colts,boxscore,38,35,542,4,309,1
+14,Sun,2019-12-08,1:00PM,Denver Broncos,@,Houston Texans,boxscore,38,24,391,1,414,3
+14,Sun,2019-12-08,1:00PM,Minnesota Vikings,,Detroit Lions,boxscore,20,7,354,0,231,2
+14,Sun,2019-12-08,1:00PM,Green Bay Packers,,Washington Redskins,boxscore,20,15,341,1,262,1
+14,Sun,2019-12-08,1:00PM,New York Jets,,Miami Dolphins,boxscore,22,21,374,1,362,1
+14,Sun,2019-12-08,1:00PM,San Francisco 49ers,@,New Orleans Saints,boxscore,48,46,516,1,465,1
+14,Sun,2019-12-08,4:05PM,Los Angeles Chargers,@,Jacksonville Jaguars,boxscore,45,10,525,0,252,0
+14,Sun,2019-12-08,4:25PM,Pittsburgh Steelers,@,Arizona Cardinals,boxscore,23,17,275,2,236,3
+14,Sun,2019-12-08,4:25PM,Kansas City Chiefs,@,New England Patriots,boxscore,23,16,346,2,278,1
+14,Sun,2019-12-08,4:25PM,Tennessee Titans,@,Oakland Raiders,boxscore,42,21,552,1,355,1
+14,Sun,2019-12-08,8:20PM,Los Angeles Rams,,Seattle Seahawks,boxscore,28,12,455,2,308,1
+14,Mon,2019-12-09,8:15PM,Philadelphia Eagles,,New York Giants,boxscore,23,17,418,1,255,0
+15,Thu,2019-12-12,8:20PM,Baltimore Ravens,,New York Jets,boxscore,42,21,430,0,310,2
+15,Sun,2019-12-15,1:00PM,Seattle Seahawks,@,Carolina Panthers,boxscore,30,24,428,1,414,3
+15,Sun,2019-12-15,1:00PM,Green Bay Packers,,Chicago Bears,boxscore,21,13,292,0,415,3
+15,Sun,2019-12-15,1:00PM,New England Patriots,@,Cincinnati Bengals,boxscore,34,13,291,0,315,5
+15,Sun,2019-12-15,1:00PM,Kansas City Chiefs,,Denver Broncos,boxscore,23,3,419,1,251,1
+15,Sun,2019-12-15,1:00PM,Tampa Bay Buccaneers,@,Detroit Lions,boxscore,38,17,495,1,295,3
+15,Sun,2019-12-15,1:00PM,Houston Texans,@,Tennessee Titans,boxscore,24,21,374,2,432,1
+15,Sun,2019-12-15,1:00PM,New York Giants,,Miami Dolphins,boxscore,36,20,412,3,384,1
+15,Sun,2019-12-15,1:00PM,Philadelphia Eagles,@,Washington Redskins,boxscore,37,27,415,1,352,1
+15,Sun,2019-12-15,4:05PM,Arizona Cardinals,,Cleveland Browns,boxscore,38,24,445,1,393,2
+15,Sun,2019-12-15,4:05PM,Jacksonville Jaguars,@,Oakland Raiders,boxscore,20,16,262,0,364,0
+15,Sun,2019-12-15,4:05PM,Minnesota Vikings,@,Los Angeles Chargers,boxscore,39,10,344,1,345,7
+15,Sun,2019-12-15,4:25PM,Atlanta Falcons,@,San Francisco 49ers,boxscore,29,22,290,1,313,2
+15,Sun,2019-12-15,4:25PM,Dallas Cowboys,,Los Angeles Rams,boxscore,44,21,475,0,289,1
+15,Sun,2019-12-15,8:20PM,Buffalo Bills,@,Pittsburgh Steelers,boxscore,17,10,261,2,229,5
+15,Mon,2019-12-16,8:15PM,New Orleans Saints,,Indianapolis Colts,boxscore,34,7,424,0,205,0
+16,Sat,2019-12-21,1:00PM,Houston Texans,@,Tampa Bay Buccaneers,boxscore,23,20,229,2,435,5
+16,Sat,2019-12-21,4:30PM,New England Patriots,,Buffalo Bills,boxscore,24,17,414,1,268,0
+16,Sat,2019-12-21,8:15PM,San Francisco 49ers,,Los Angeles Rams,boxscore,34,31,334,2,395,1
+16,Sun,2019-12-22,1:00PM,Atlanta Falcons,,Jacksonville Jaguars,boxscore,24,12,518,2,288,1
+16,Sun,2019-12-22,1:00PM,Indianapolis Colts,,Carolina Panthers,boxscore,38,6,324,0,286,3
+16,Sun,2019-12-22,1:00PM,Miami Dolphins,,Cincinnati Bengals,boxscore,38,35,502,1,430,1
+16,Sun,2019-12-22,1:00PM,Baltimore Ravens,@,Cleveland Browns,boxscore,31,15,481,1,241,1
+16,Sun,2019-12-22,1:00PM,New Orleans Saints,@,Tennessee Titans,boxscore,38,28,377,0,397,1
+16,Sun,2019-12-22,1:00PM,New York Giants,@,Washington Redskins,boxscore,41,35,552,0,361,0
+16,Sun,2019-12-22,1:00PM,New York Jets,,Pittsburgh Steelers,boxscore,16,10,259,1,260,2
+16,Sun,2019-12-22,4:05PM,Denver Broncos,,Detroit Lions,boxscore,27,17,348,0,191,0
+16,Sun,2019-12-22,4:05PM,Oakland Raiders,@,Los Angeles Chargers,boxscore,24,17,366,0,284,0
+16,Sun,2019-12-22,4:25PM,Arizona Cardinals,@,Seattle Seahawks,boxscore,27,13,412,0,224,1
+16,Sun,2019-12-22,4:25PM,Philadelphia Eagles,,Dallas Cowboys,boxscore,17,9,431,0,311,1
+16,Sun,2019-12-22,8:20PM,Kansas City Chiefs,@,Chicago Bears,boxscore,26,3,350,0,234,0
+16,Mon,2019-12-23,8:15PM,Green Bay Packers,@,Minnesota Vikings,boxscore,23,10,383,3,139,1
+17,Sun,2019-12-29,1:00PM,Atlanta Falcons,@,Tampa Bay Buccaneers,boxscore,28,22,373,1,329,3
+17,Sun,2019-12-29,1:00PM,New York Jets,@,Buffalo Bills,boxscore,13,6,271,1,309,3
+17,Sun,2019-12-29,1:00PM,New Orleans Saints,@,Carolina Panthers,boxscore,42,10,379,0,329,3
+17,Sun,2019-12-29,1:00PM,Chicago Bears,@,Minnesota Vikings,boxscore,21,19,337,1,300,3
+17,Sun,2019-12-29,1:00PM,Cincinnati Bengals,,Cleveland Browns,boxscore,33,23,361,1,313,3
+17,Sun,2019-12-29,1:00PM,Green Bay Packers,@,Detroit Lions,boxscore,23,20,432,1,305,1
+17,Sun,2019-12-29,1:00PM,Kansas City Chiefs,,Los Angeles Chargers,boxscore,31,21,336,1,366,2
+17,Sun,2019-12-29,1:00PM,Miami Dolphins,@,New England Patriots,boxscore,27,24,389,0,352,2
+17,Sun,2019-12-29,4:25PM,Jacksonville Jaguars,,Indianapolis Colts,boxscore,38,20,353,1,275,2
+17,Sun,2019-12-29,4:25PM,Los Angeles Rams,,Arizona Cardinals,boxscore,31,24,424,0,393,5
+17,Sun,2019-12-29,4:25PM,Dallas Cowboys,,Washington Redskins,boxscore,47,16,517,1,271,2
+17,Sun,2019-12-29,4:25PM,Denver Broncos,,Oakland Raiders,boxscore,16,15,238,1,477,1
+17,Sun,2019-12-29,4:25PM,Tennessee Titans,@,Houston Texans,boxscore,35,14,467,0,301,1
+17,Sun,2019-12-29,4:25PM,Philadelphia Eagles,@,New York Giants,boxscore,34,17,400,0,397,2
+17,Sun,2019-12-29,4:25PM,Baltimore Ravens,,Pittsburgh Steelers,boxscore,28,10,304,2,168,2
+17,Sun,2019-12-29,8:20PM,San Francisco 49ers,@,Seattle Seahawks,boxscore,26,21,398,0,348,0
+,,Playoffs,,,,,,,,,,,
+WildCard,Sat,2020-01-04,4:35PM,Houston Texans,,Buffalo Bills,boxscore,22,19,360,1,425,1
+WildCard,Sat,2020-01-04,8:15PM,Tennessee Titans,@,New England Patriots,boxscore,20,13,272,1,307,2
+WildCard,Sun,2020-01-05,1:05PM,Minnesota Vikings,@,New Orleans Saints,boxscore,26,20,362,1,324,2
+WildCard,Sun,2020-01-05,4:40PM,Seattle Seahawks,@,Philadelphia Eagles,boxscore,17,9,382,0,282,0
+Division,Sat,2020-01-11,4:35PM,San Francisco 49ers,,Minnesota Vikings,boxscore,27,10,308,2,147,2
+Division,Sat,2020-01-11,8:15PM,Tennessee Titans,@,Baltimore Ravens,boxscore,28,12,300,0,530,3
+Division,Sun,2020-01-12,3:05PM,Kansas City Chiefs,,Houston Texans,boxscore,51,31,434,1,442,1
+Division,Sun,2020-01-12,6:40PM,Green Bay Packers,,Seattle Seahawks,boxscore,28,23,344,0,375,0
+ConfChamp,Sun,2020-01-19,3:05PM,Kansas City Chiefs,,Tennessee Titans,boxscore,35,24,404,0,295,0
+ConfChamp,Sun,2020-01-19,6:40PM,San Francisco 49ers,,Green Bay Packers,boxscore,37,20,354,0,358,3
+SuperBowl,Sun,2020-02-02,6:30PM,Kansas City Chiefs,N,San Francisco 49ers,boxscore,31,20,397,2,351,2
+
+
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Pro-Football-Reference.com</a>: <a href="https://www.pro-football-reference.com/years/2019/games.htm?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#games">View Original Table</a><br>Generated 8/22/2025.

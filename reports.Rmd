@@ -1,0 +1,62 @@
+---
+title: "SDS 4135 - Tips for Good Reports"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Clarity
+
+The number one thing that I look for in reports is clarity of presentation.
+I should be able to read your report and understand exactly what you did,
+without having to look into your code. To improve clarity, it may sometimes
+be useful to include a few lines of code, but code should be kept to an
+absolute minimum in your reports. 
+
+A statistical analysis involves the specification of a statistical model.
+When specifying the statistical models that you use, strive to use clear
+mathematical notation. Your notation should allow the referencing of 
+individual observations and variables. Often subscripts are a good way
+to do this, but not the only way. Each symbol should be defined, and 
+distributions of random terms should be fully specified.
+
+# Figures and Tables
+
+A good presentation of your analysis and results will involve the production
+of visualizations and figures. Figures should be mostly
+self-contained, in the sense that someone familiar with the data should be
+able to look at your figure and understand what it's showing, without
+referencing the text of your report. Captions are helpful. 
+
+If your figure displays information from a small number of numbers, sometimes
+a table is a better way to display the information. As with figures, tables
+should be reasonably self-contained. Tables with many rows and columns are
+sometimes appropriate, but usually are too overwhelming and would be better
+displayed as a figure.
+
+# Budget time for writing
+
+You will likely spend more time doing the analysis than writing the report. However,
+you should budget sufficient time for writing and revising the report. Aim to have
+a good draft done the day before it is due, to allow time for revising it. You shouldn't
+be turning in a first draft.
+
+# AI
+
+I don't mind if you use AI to help with your analysis or your report. Using it for
+writing is a bit of a gamble because it might plagiarize text, which would get
+you in trouble. You are responsible for ensuring that your work is not plagiarized.
+A safe way to do that is to write it yourself. 
+
+I encourage you to use AI to help think through your analysis, and even to help
+write code. Again, there is a gamble here because I am going to ask you questions
+in your presentation, and if it's clear that you don't understand the analysis
+that you did, you will get docked in your grade. 
+
+AI can make you smarter or dumber. If you allow it to think for you, you will get
+dumber. If you use it to help explain things you don't understand and as a sounding
+board for your own ideas, you will get smarter. 
+
+
