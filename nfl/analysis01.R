@@ -158,7 +158,7 @@ alpha <- p_bb * ( 1/phi - 1 )
 beta <- (1 - p_bb) * ( 1/phi - 1 )
 
 # use dbetabinom to calculate the probabilities of 0 to 17 wins
-probs_bb <- extraDistr::dbbinom( 0:17, size = 17, alpha = alpha2, beta = beta2 )
+probs_bb <- extraDistr::dbbinom( 0:17, size = 17, alpha = alpha, beta = beta )
 
 # compare to the binomial model
 p <- pred_data$pred_prob[ pred_data$Tm == "Houston Texans" ]

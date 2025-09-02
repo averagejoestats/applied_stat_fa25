@@ -22,4 +22,4 @@ library("extraDistr") # for dbbinom
 n <- 17
 x <- 0:n
 plot( x, dbinom(x, n, 0.5), type = "h", lwd = 2, ylim = c(0, 0.2) )
-lines( x + 0.1, dbbinom(x, n, 1.0, 1.0), col = "red", lwd = 2, type = "h" )
+lines( x + 0.1, dbbinom(x, n, 20.0, 20.0), col = "red", lwd = 2, type = "h" )
