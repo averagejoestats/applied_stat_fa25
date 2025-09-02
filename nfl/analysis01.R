@@ -134,13 +134,41 @@ lines( ecdf(sim_pcts), verticals = TRUE , do.points = FALSE, col = "blue", lwd =
 
 # Fit a beta binomial model
 library( "aod" )
+#?betabin
 data2 <- data[ !is.na(data$prior_pct), ]
-data2$id <- 1:nrow(data2)
 m3 <- betabin( cbind(W, L) ~ logit_prior_pct, random  = ~ 1, data = data2 )
 summary(m3)
+
+# get the overdispersion parameter
+phi <- m3@random.param
+
+# make predictions for 2025 using the beta binomial model
+pred_bb <- predict( m3, newdata = pred_data, type = "response", se.fit = TRUE )
+pred_data$prob_prob_bb <- pred_bb$fit
+
+# calculate the predicted distribution of wins for Houston Texans using the beta binomial model
+p_bb <- pred_data$prob_prob_bb[ pred_data$Tm == "Houston Texans" ]
+# use the extra parameter phi to calculate the alpha and beta parameters of the beta binomial
+# copilot got this wrong!
+#alpha <- p_bb * ( (1 - p_bb) / phi - 1 )
+#beta <- (1 - p_bb) * ( (1 - p_bb) / phi - 1 )
+
+# this is the correct formula
+alpha <- p_bb * ( 1/phi - 1 )
+beta <- (1 - p_bb) * ( 1/phi - 1 )
+
+# use dbetabinom to calculate the probabilities of 0 to 17 wins
+probs_bb <- extraDistr::dbbinom( 0:17, size = 17, alpha = alpha2, beta = beta2 )
+
+# compare to the binomial model
+p <- pred_data$pred_prob[ pred_data$Tm == "Houston Texans" ]
+probs_binom <- dbinom( 0:17, size = 17, prob = p )
+
+round( cbind(wins = 0:17, binom = probs_binom, bb = probs_bb, ratio = probs_bb/probs_binom ), 6 )
 
 
 # try a genearlized linear mixed model
 library( "lme4" )
+data2$id <- 1:nrow(data2)
 m4 <- glmer( cbind(W, L) ~ logit_prior_pct + (1|id), data = data2, family = binomial(link = "logit") )
 summary(m4)
