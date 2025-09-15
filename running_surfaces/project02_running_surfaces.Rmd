@@ -1,0 +1,39 @@
+---
+title: "SDS 4135 - Project 2"
+subtitle: "Due October 25"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Running Surface Study
+
+This project analyzes a 2021 study published in the Journal of Science and Medicine
+in sport. You are asked to read the paper, reproduce some of the results, perform
+your own independent analyses, and summarize your conclusions. 
+
+In particular, be sure that your report addresses the following:
+
+You should turn in a pdf report that contains the following:
+
+* Reproduce Figures 3 and 4 and Table 1 in the JSAMS paper. You don't have to match the formatting and the colors exactly, but I should be able to tell that they are the same.
+
+* Write down the model that the authors used, in mathematical notation. Comment on the appropriateness of the models used by the authors in the study. 
+
+* Comment on the appropriateness of the conclusions reached given the analysis that they did, in particular the statement "Dirt and gravel trail running surfaces do not have lower tibial accelerations or greater shock attenuation than paved surfaces."
+
+* Perform your own analysis addressing any shortcomings of the analysis that the authors performed. Report what analysis you did, the results that you got, and any conclusions that you are able to draw. You may wish to include additional figures and tables.
+
+# Dataset
+
+The data are provided in the course github under `running_surfaces/running_surface_data.csv`. The authors have provided the data to me
+under the condition that it will be used only for educational purposes, so you
+are asked not to share the data outside of this class. Please make sure any
+github repository you use is private.
+
+
+
+
+
