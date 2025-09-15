@@ -1,6 +1,6 @@
 ---
 title: "SDS 4135 - Project 2"
-subtitle: "Due October 25"
+subtitle: "Due September 25"
 output: pdf_document
 ---
 
