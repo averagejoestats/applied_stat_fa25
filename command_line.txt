@@ -1,0 +1,45 @@
+
+cd to the directory containing the running_surface_data.csv
+
+pwd the directory
+
+ls the files there
+
+ls with options
+
+cd to the directory containing our course github page
+
+mkdir a new directory called "temp"
+
+cp the running surface data to temp
+
+less the running surface data
+
+cp the nfl standings.csv data to temp
+
+head the standings data
+
+tail the standings data
+
+wc -l the lines in standings data
+
+less the standings data
+
+run less with line numbers
+
+man page for less
+
+search for Tennessee
+
+grep for Tennessee titans
+
+write the tennessee titans to a file
+
+mv (rename) the file to a different name
+
+rm the file
+
+remove the temp directory (if you want)
+
+
+
