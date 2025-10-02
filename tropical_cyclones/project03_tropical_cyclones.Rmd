@@ -1,0 +1,58 @@
+---
+title: "SDS 4135 - Project 3"
+subtitle: "Due October 23"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Tropical Cyclones
+
+A tropical cyclone is a large storm that rotates around a low pressure center.
+There is system for classifying tropical cyclones based on their wind speeds,
+which includes the tropical storm designation and the hurricane designation,
+reserved for the largest storms.
+
+There is great scientific and public interest in understanding tropical cyclones,
+given that they are difficult to predict far in advance, and they have the 
+capability to produce significant damage. See for example the recent videos of 
+homes in Buxton, NC collapsing into the ocean, as a result of waves produced by 
+post-tropical cyclone Imelda.
+
+We will focus on two questions that have received attention in the scientific
+literature:
+
+1. Is the number of tropical cyclones (of various types) in a year over-dispersed 
+   relative to a constant Poisson distribution? 
+   
+2. Can you find evidence of a "cold wake" effect, which makes it unlikely that
+   two strong storms will appear in quick succession?
+
+The first question is relevant for predictability. If the number of storms
+follows a Poisson distribution with the same rate each year, then it is 
+unlikely that we have any chance of predicting the storm season in advance.
+
+The second question is of both scientific and public interest, for the purpose
+of preparing for the unlikely but catastrophic event that the same area
+is hit by two strong storms in a short period of time. The second question
+is also quite a bit more open-ended, and you should feel free to interpret
+it as best you can.
+
+I would like to see logically sound statistical analyses, complete with hypotheses, 
+models, test statistics, sampling distributions, and inferences. Ultimately, the goal 
+of a statistical analysis is to convince another human being that something
+is true or false. To this end, simple and understandable with solid logic
+is preferable to complex and overwhelming. 
+
+
+# Data
+
+You may use any data you wish, but the course github page contains the hurdat2
+dataset, which is maintained by the U.S. National Hurricane Center. I believe
+you should be able to complete this project using only the hurdat2 dataset. It 
+will need some cleaning, as the formatting may not be ideal for your purposes.
+We will talk about it in class.
+
+
