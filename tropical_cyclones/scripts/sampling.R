@@ -78,6 +78,24 @@ q <- quantile( HL$doy_decimal, probs = p )
 
 plot( p, q, type='l' )
 
+# heterogenous poisson process:
+# first simulate the total number of events
+J <- rpois(1, lambda=0.05*365)
+# then simulate the event times from distribution proportional to rate function
+
+# get the empirical quantile function
+p <- seq(0,1,by=0.001)
+q <- quantile( HL$doy_decimal, probs = p )
+
+plot( p, q, type='l' )
+
+
+# sample directly from the empirical distribution
+E <- sample( HL$doy_decimal, size=J, replace=TRUE )
+
+plot( E, 0.01*rnorm(length(E)), ylim = c(-1,1), xlim = c(0,365), pch=4, xlab="days", ylab="", yaxt='n' )
+
+
 
 # get the interarrival times
 waiting_times <- diff( HL$year + HL$doy_decimal/366 )
