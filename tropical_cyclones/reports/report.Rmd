@@ -1,0 +1,29 @@
+---
+title: "Tropical Cyclone Report"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Tropical Cyclones
+
+A tropical cyclone is a large storm that rotates around a low pressure center.
+There is system for classifying tropical cyclones based on their wind speeds,
+which includes the tropical storm designation and the hurricane designation,
+reserved for the largest storms.
+
+There is great scientific and public interest in understanding tropical cyclones,
+given that they are difficult to predict far in advance, and they have the 
+capability to produce significant damage. See for example the recent videos of 
+homes in Buxton, NC collapsing into the ocean, as a result of waves produced by 
+post-tropical cyclone Imelda.
+
+The hurdat2 data is an important dataset for studying tropical cyclones. 
+It records the status of tropical cyclones at 6-hour intervals. Here is a
+plot of the hurdat2 storms for the 2024 Atlantic hurricane season:
+
+```{r img-with-knitr, echo=FALSE, fig.align='center', out.width='100%', fig.cap='2024 Hurricane Season'}
+knitr::include_graphics("../figures/2024_season_tracks.pdf")
+```
