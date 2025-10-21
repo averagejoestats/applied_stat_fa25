@@ -105,5 +105,7 @@ var( yearly$n_hurricanes[!ii] )
 
 
 # save the processed data
+hurdat <- dat
+save(hurdat, file="../processed_data/hurdat.RData")
 save(storms, file="../processed_data/storms_hurdat.RData")
 save(yearly, file="../processed_data/yearly_hurdat.RData")
