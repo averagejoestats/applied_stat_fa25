@@ -18,7 +18,7 @@ Your task in this project is to explore the patterns of tornados in the United
 States, using a dataset of tornados dating back to 1950.
 
 You have a bit more freedom in this project to explore questions that you find
-interesting. You should produce a analyses of the data that addresses some of
+interesting. You should produce analyses of the data that address some of
 the questions below. You do not need to answer all of them. It's better to pick
 a few and do thorough analyses, rather than do a fleeting analysis of all of
 them. 
