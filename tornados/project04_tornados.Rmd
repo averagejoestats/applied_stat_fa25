@@ -1,0 +1,53 @@
+---
+title: "SDS 4135 - Project 4"
+subtitle: "Due November 13"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Tornados
+
+A large tornado swept through the St. Louis area in May of 2025, destroying
+trees and landscapes in Forest Park, and homes and businesses in several parts
+of the city, with the worst damage in the northern part.
+
+Your task in this project is to explore the patterns of tornados in the United 
+States, using a dataset of tornados dating back to 1950.
+
+You have a bit more freedom in this project to explore questions that you find
+interesting. You should produce a analyses of the data that addresses some of
+the questions below. You do not need to answer all of them. It's better to pick
+a few and do thorough analyses, rather than do a fleeting analysis of all of
+them. 
+
+* How does the spatial pattern of tornados change throughout the year?
+
+* How has the overall pattern of tornados changed over time?
+
+* How has the intensity and frequency of tornados changed over time?
+
+* How does the spatial distribution of the strongest tornados compare to that
+of weaker tornados?
+
+* What time of day are tornados most likely to occur, and how does that vary
+spatially and over the course of the year?
+
+* How have tornado deaths varied over long time trends? 
+
+* How do tornado deaths vary with time of year and time of day?
+
+Feel free to explore other aspects of the data you find interesting.
+
+Your report should include several well-produced visualizations of the data
+and your analyses.
+
+
+# Data
+
+There is a file `tornados/1950-2024_actual_tornados.csv` that has a row for each tornado.
+The file `SPC_severe_database_description.pdf` describes each column.
+
+
