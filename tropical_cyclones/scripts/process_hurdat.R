@@ -17,6 +17,8 @@ for(j in 1:nrow(dat)){
   }
 }
 
+colnames(dat)[c(7,8)] <- c("wind_speed","pressure")
+
 # remove rows that start with AL
 dat <- dat[ substr(dat$V1,1,2) != "AL", ]
 
@@ -25,6 +27,11 @@ dat$date <- as.Date( dat$V1, format="%Y%m%d" )
 
 # add a year column
 dat$year <- as.numeric( format(dat$date, "%Y") )
+
+# add some time columns
+dat$days_since_1800 <- as.numeric( dat$date - as.Date("1800-01-01") )
+dat$time_since_1800 <- dat$days_since_1800 + as.numeric(dat$V2)/2400
+dat$decimal_doy <- as.numeric( format(dat$date, "%j") ) + as.numeric(dat$V2)/2400
 
 # remove white space from V4
 dat$V3 <- gsub(" ", "", dat$V3)
@@ -61,9 +68,9 @@ in_usa_fun <- function(lon, lat){
                           
 dat$in_usa <- in_usa_fun( dat$lon, dat$lat )
 
-inout <- c("blue","black")
-plot( dat$lon, dat$lat, col=inout[1+dat$in_usa], pch=16, cex=0.5, xlim = c(-120,-60), ylim=c(20,60) )
-map("usa", add = TRUE)
+#inout <- c("blue","black")
+#plot( dat$lon, dat$lat, col=inout[1+dat$in_usa], pch=16, cex=0.5, xlim = c(-120,-60), ylim=c(20,60) )
+#map("usa", add = TRUE)
 
 
 # create a new data frame with a row for each storm and some summary statistics
@@ -76,11 +83,22 @@ storms <- dat %>%
         name = first(name),
         start_date = min(date),
         end_date = max(date),
-        max_wind = max(V7),
+        max_wind = max(wind_speed),
         year = first(year),
         hurricane = any(V4 == "HU"),
+        hurricane_time = first( time_since_1800[ V4 == "HU" ] ),
+        tropical_storm_time = first( time_since_1800[ V4 %in% c("TS","HU") ] ),
+        H_decimal_doy = first( decimal_doy[ V4 == "HU" ] ),
+        TS_decimal_doy = first( decimal_doy[ V4 %in% c("TS","HU") ] ),
+        cyclone_time = first( time_since_1800[ V4 %in% c("TS","HU","TD") ] ),
         landfall_hurricane = any(V4 == "HU" & in_usa),
-        tropical_storm = any(V4 == "TS") | any( V4 == "HU" )
+        tropical_storm = any(V4 == "TS") | any( V4 == "HU" ),
+        start_lon = first(lon),
+        start_lat = first(lat),
+        min_pressure_lon = lon[ which.min(pressure) ],
+        min_pressure_lat = lat[ which.min(pressure) ],
+        max_wind_lon = lon[ which.max(wind_speed) ],
+        max_wind_lat = lat[ which.max(wind_speed) ]
     ) %>% as.data.frame()
 storms <- storms[ order(storms$start_date), ]
        
@@ -93,15 +111,15 @@ for(j in 1:nrow(yearly)){
     yearly$n_landfall_hurricanes[j] <- sum( storms$year == yearly$year[j] & storms$landfall_hurricane )
 }
 
-hist( yearly$n_hurricanes, breaks=200 )
-
-ii <- yearly$year >= 1980
-mean( yearly$n_hurricanes[ii] )
-mean( yearly$n_hurricanes[!ii] )
-
-
-var( yearly$n_hurricanes[ii] )
-var( yearly$n_hurricanes[!ii] )
+#hist( yearly$n_hurricanes, breaks=200 )
+#
+#ii <- yearly$year >= 1980
+#mean( yearly$n_hurricanes[ii] )
+#mean( yearly$n_hurricanes[!ii] )
+#
+#
+#var( yearly$n_hurricanes[ii] )
+#var( yearly$n_hurricanes[!ii] )
 
 
 # save the processed data
