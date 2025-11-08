@@ -3,6 +3,9 @@
 load("../tropical_cyclones/processed_data/storms_hurdat.RData")
 tail(storms)
 
+# use only storms after 1970-01-01
+storms <- storms[ storms$start_date >= "1970-01-01", ]
+
 # use maps package for plotting country boundaries
 library("maps")
 
@@ -17,7 +20,7 @@ plot( storms$min_pressure_lon, storms$min_pressure_lat, xlab = "Longitude", ylab
 )
 map("world", add = TRUE)
 plot( storms$max_wind_lon, storms$max_wind_lat, xlab = "Longitude", ylab = "Latitude",
-      main = "Minimum Pressure Locations of Tropical Cyclones (HURDAT)", pch = 1
+      main = "Max Wind Speed Locations of Tropical Cyclones (HURDAT)", pch = 1
 )
 map("world", add = TRUE)
 
@@ -26,8 +29,8 @@ map("world", add = TRUE)
 #
 
 # define the grid box centers
-lon_grid <- seq(-110, 0, by = 1.0 )
-lat_grid <- seq(0, 65, by = 1.0 )
+lon_grid <- seq(-110, 0, by = 0.5 )
+lat_grid <- seq(0, 65, by = 0.5 )
 lonlat_grid <- expand.grid(lon = lon_grid, lat = lat_grid)
 
 # calculate the approximate area of each grid box in square kilometers
@@ -38,25 +41,36 @@ lat_width <- diff(lat_grid)[1]
 lonlat_grid$area <- ( 111.32*lat_width )*( 111.32*lon_width*cos( 2*pi*lonlat_grid$lat/360 ) )
 
 # bandwidth in kilometers, convert lonlat grid to matrix, for use in rdist.earth
-h <- 100
+h <- 150  # 150 miles in kilometers
 lonlat_grid_mat <- as.matrix( lonlat_grid[,c("lon","lat")] )
 
 # initialize the kernel density estimate
 lonlat_grid$kde_genesis <- 0
+lonlat_grid$kde_max_wind <- 0
 
 # loop over the storm starting locations and calculate the density
-for(j in 1:nrow(storms)) {
+for(i in 1:nrow(storms)) {
     # get lonlat for this storm, calculate distances to all grid points
-    this_storm_lonlat <- matrix( c(storms$start_lon[j], storms$start_lat[j]), nrow = 1 )
+    this_storm_lonlat <- matrix( c(storms$start_lon[i], storms$start_lat[i]), nrow = 1 )
     dists <- fields::rdist.earth( lonlat_grid_mat, this_storm_lonlat, miles = FALSE )
     # add to the kernel density estimate
     lonlat_grid$kde_genesis <- lonlat_grid$kde_genesis + 1/(2*pi*h^2)*exp(-1/2*dists^2/h^2)
+
+    # get lonlat for this storm, calculate distances to all grid points
+    this_storm_lonlat <- matrix( c(storms$max_wind_lon[i], storms$max_wind_lat[i]),nrow = 1 )
+    dists <- fields::rdist.earth( lonlat_grid_mat, this_storm_lonlat, miles = FALSE )
+    # add to the kernel density estimate
+    lonlat_grid$kde_max_wind <- lonlat_grid$kde_max_wind + 1/(2*pi*h^2)*exp(-1/2*dists^2/h^2)
 }
 
 # plot the kernel density estimate
-par(mfrow=c(1,1))
+par(mfrow=c(1,2))
 fields::image.plot(
     lon_grid, lat_grid, matrix( lonlat_grid$kde_genesis, length(lon_grid), length(lat_grid) )
+)
+map("world", add = TRUE, col = "white" )
+fields::image.plot(
+    lon_grid, lat_grid, matrix( lonlat_grid$kde_max_wind,length(lon_grid), length(lat_grid) )
 )
 map("world", add = TRUE, col = "white" )
 
