@@ -187,3 +187,98 @@ fields::image.plot(lon_breaks[-1], lat_breaks[-1],  t(Qmat[nrow(Qmat):1, ])/area
     main = "Counts per square kilometer")
 map("world", add = TRUE, col = "white" )
 
+
+# fit a model to the quadrat counts
+
+# convert to data frame
+max_wind_df <- as.data.frame( Q )
+
+# get a latitude covariate. spatstat orders things weird so we have to be careful 
+Xlat <- rep( rev(lat_centers), length( lon_centers ) )
+max_wind_df$lat <- Xlat
+
+# we also need the areas
+max_wind_df$area <- as.vector( t( areas[ , ncol(areas):1 ] ) )
+
+# now fit the Poisson glm with latitude covariate and log(area) offset
+m1 <- glm( Freq ~ lat, data = max_wind_df, family = poisson(link = "log"), offset = log(area) )
+summary(m1)
+
+# you can also do it like this
+m2 <- glm( Freq ~ lat + offset( log(area) ), data = max_wind_df, family = poisson(link = "log") )
+summary(m2)
+exp( -10.95 )
+
+# for fun, try removing the offset, does this make sense?
+m3 <- glm( Freq ~ lat, data = max_wind_df, family = poisson(link = "log") )
+summary(m3)
+
+# quadratic effect?
+m4 <- glm( Freq ~ lat + I(lat^2) + offset( log(area) ), data = max_wind_df, family=poisson(link="log"))
+summary(m4)
+m4$coefficients[2] / (-2*m4$coefficients[3])  #### -b/2a
+exp( m4$coefficients[1] )
+
+# what does the estimated rate function look like?
+max_wind_df$lon <- rep( lon_centers, each = length(lat_centers) )
+max_wind_df$rate <- exp( predict( m4, newdata = max_wind_df, type = "link" ) ) / max_wind_df$area
+
+# this is what copilot gave me (not right)
+fields::image.plot( lon_centers, lat_centers,
+    matrix( max_wind_df$rate, nrow = length(lon_centers), ncol = length(lat_centers), byrow = TRUE ),
+    main = "Estimated rate function from glm"
+)
+
+# this is right
+mat <- matrix( max_wind_df$rate, length(lon_centers), length(lat_centers), byrow = TRUE )
+fields::image.plot( lon_centers, lat_centers, mat[ , ncol(mat):1 ],
+    main = "Estimated rate function from glm"
+)
+map("world", add = TRUE, col = "white" )
+
+# put it next to the kde estimate, on the same scale
+par(mfrow=c(1,2))
+fields::image.plot(
+    lon_grid, lat_grid, matrix( lonlat_grid$kde_max_wind,length(lon_grid), length(lat_grid) ),
+    zlim = c(0, max( lonlat_grid$kde_max_wind))
+)
+map("world", add = TRUE, col = "white" )
+fields::image.plot( lon_centers, lat_centers, mat[ , ncol(mat):1 ],
+    zlim = c(0, max( lonlat_grid$kde_max_wind)),
+    main = "Estimated rate function from glm"
+)
+map("world", add = TRUE, col = "white" )
+
+
+
+# fun with windows
+# windows don't need to be rectangular. Let's make a window using the US coastline
+usa <- map("usa", plot = FALSE, fill = TRUE)
+class(usa)
+names(usa)
+usa$names
+usa$x
+
+# you could make a list of polygon data frames, one for each "island"
+usa_polygons <- list()
+island_breaks <- c(0, which( is.na( usa$x ) ), length(usa$x) + 1 )
+for(j in 1:(length(island_breaks)-1)) {
+    i1 <- island_breaks[j] + 1
+    i2 <- island_breaks[j+1] - 1
+    usa_polygons[[j]] <- data.frame(x = usa$x[i1:i2], y = usa$y[i1:i2])
+    attr( usa_polygons[[j]], "island") <- usa$names[j]
+}
+
+usa_window <- owin( poly = usa_polygons )
+plot( usa_window )
+
+# you can also use the map_data function from ggplot2
+library("ggplot2")
+usa2 <- ggplot2::map_data("usa")
+
+# need to split it into a list
+names(usa2)[1:2] <- c("x","y")
+usa2_polygons <- split( usa2[,c("x","y")], usa2$group )
+
+usa2_window <- owin( poly = usa2_polygons )
+plot( usa2_window )
