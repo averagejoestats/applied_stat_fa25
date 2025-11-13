@@ -127,3 +127,8 @@ hurdat <- dat
 save(hurdat, file="../processed_data/hurdat.RData")
 save(storms, file="../processed_data/storms_hurdat.RData")
 save(yearly, file="../processed_data/yearly_hurdat.RData")
+
+storm_summaries <- storms
+year_summaries <- yearly
+save(storms, file="../processed_data/storm_summaries.RData")
+save(storms, file="../processed_data/year_summaries.RData")
