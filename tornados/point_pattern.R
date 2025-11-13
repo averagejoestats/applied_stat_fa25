@@ -201,11 +201,11 @@ max_wind_df$lat <- Xlat
 max_wind_df$area <- as.vector( t( areas[ , ncol(areas):1 ] ) )
 
 # now fit the Poisson glm with latitude covariate and log(area) offset
-m1 <- glm( Freq ~ lat, data = max_wind_df, family = poisson(link = "log"), offset = log(area) )
+m1 <- glm( Freq ~ lat, data=max_wind_df, family=poisson(link = "log"), offset = log(area) )
 summary(m1)
 
 # you can also do it like this
-m2 <- glm( Freq ~ lat + offset( log(area) ), data = max_wind_df, family = poisson(link = "log") )
+m2 <- glm( Freq ~ lat + offset(log(area)), data=max_wind_df, family = poisson(link = "log") )
 summary(m2)
 exp( -10.95 )
 
@@ -214,7 +214,7 @@ m3 <- glm( Freq ~ lat, data = max_wind_df, family = poisson(link = "log") )
 summary(m3)
 
 # quadratic effect?
-m4 <- glm( Freq ~ lat + I(lat^2) + offset( log(area) ), data = max_wind_df, family=poisson(link="log"))
+m4 <- glm( Freq ~ lat + I(lat^2) + offset(log(area)), data = max_wind_df, family=poisson(link="log"))
 summary(m4)
 m4$coefficients[2] / (-2*m4$coefficients[3])  #### -b/2a
 exp( m4$coefficients[1] )
