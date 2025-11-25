@@ -1,16 +1,15 @@
 Package: hurdattools
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Tools for Working With the Hurdat Dataset
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
+      "Joe", "Guinness",
       email = "jane@example.com",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Description: Tools for working with the hurdat2 dataset.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true

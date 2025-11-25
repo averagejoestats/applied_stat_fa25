@@ -4,10 +4,12 @@
 \alias{hello}
 \title{A Hello Function}
 \usage{
-hello(name = "world")
+hello(name = "world", greeting = "Have a great day!")
 }
 \arguments{
 \item{name}{A character string with the name to greet.}
+
+\item{greeting}{A character string with a greeting.}
 }
 \value{
 A character string containing the greeting.
