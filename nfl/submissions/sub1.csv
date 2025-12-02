@@ -1,0 +1,577 @@
+"team","wins","prob"
+"Buffalo Bills",0,0
+"Buffalo Bills",1,2e-06
+"Buffalo Bills",2,2.2e-05
+"Buffalo Bills",3,0.000138
+"Buffalo Bills",4,0.000647
+"Buffalo Bills",5,0.002403
+"Buffalo Bills",6,0.007311
+"Buffalo Bills",7,0.018624
+"Buffalo Bills",8,0.040261
+"Buffalo Bills",9,0.074371
+"Buffalo Bills",10,0.117542
+"Buffalo Bills",11,0.15828
+"Buffalo Bills",12,0.179686
+"Buffalo Bills",13,0.168697
+"Buffalo Bills",14,0.126776
+"Buffalo Bills",15,0.072048
+"Buffalo Bills",16,0.027729
+"Buffalo Bills",17,0.005461
+"Miami Dolphins",0,0.008455
+"Miami Dolphins",1,0.038979
+"Miami Dolphins",2,0.092345
+"Miami Dolphins",3,0.148722
+"Miami Dolphins",4,0.181729
+"Miami Dolphins",5,0.178263
+"Miami Dolphins",6,0.144975
+"Miami Dolphins",7,0.099617
+"Miami Dolphins",8,0.058433
+"Miami Dolphins",9,0.029375
+"Miami Dolphins",10,0.012636
+"Miami Dolphins",11,0.004619
+"Miami Dolphins",12,0.001415
+"Miami Dolphins",13,0.000356
+"Miami Dolphins",14,7.1e-05
+"Miami Dolphins",15,1e-05
+"Miami Dolphins",16,1e-06
+"Miami Dolphins",17,0
+"New York Jets",0,1.9e-05
+"New York Jets",1,0.000227
+"New York Jets",2,0.001346
+"New York Jets",3,0.005308
+"New York Jets",4,0.015577
+"New York Jets",5,0.036092
+"New York Jets",6,0.068354
+"New York Jets",7,0.108071
+"New York Jets",8,0.14441
+"New York Jets",9,0.164044
+"New York Jets",10,0.158453
+"New York Jets",11,0.129449
+"New York Jets",12,0.08839
+"New York Jets",13,0.049416
+"New York Jets",14,0.021861
+"New York Jets",15,0.007217
+"New York Jets",16,0.001589
+"New York Jets",17,0.000176
+"New England Patriots",0,0.001639
+"New England Patriots",1,0.010502
+"New England Patriots",2,0.034132
+"New England Patriots",3,0.074557
+"New England Patriots",4,0.122346
+"New England Patriots",5,0.159775
+"New England Patriots",6,0.171685
+"New England Patriots",7,0.154842
+"New England Patriots",8,0.118528
+"New England Patriots",9,0.077371
+"New England Patriots",10,0.043031
+"New England Patriots",11,0.020261
+"New England Patriots",12,0.007973
+"New England Patriots",13,0.002566
+"New England Patriots",14,0.000652
+"New England Patriots",15,0.000123
+"New England Patriots",16,1.5e-05
+"New England Patriots",17,1e-06
+"Baltimore Ravens",0,0
+"Baltimore Ravens",1,1e-06
+"Baltimore Ravens",2,7e-06
+"Baltimore Ravens",3,5.1e-05
+"Baltimore Ravens",4,0.000266
+"Baltimore Ravens",5,0.001095
+"Baltimore Ravens",6,0.00369
+"Baltimore Ravens",7,0.010435
+"Baltimore Ravens",8,0.025089
+"Baltimore Ravens",9,0.051655
+"Baltimore Ravens",10,0.091225
+"Baltimore Ravens",11,0.137666
+"Baltimore Ravens",12,0.175724
+"Baltimore Ravens",13,0.186202
+"Baltimore Ravens",14,0.158622
+"Baltimore Ravens",15,0.102698
+"Baltimore Ravens",16,0.045288
+"Baltimore Ravens",17,0.010287
+"Pittsburgh Steelers",0,1e-05
+"Pittsburgh Steelers",1,0.000129
+"Pittsburgh Steelers",2,0.000821
+"Pittsburgh Steelers",3,0.003462
+"Pittsburgh Steelers",4,0.010862
+"Pittsburgh Steelers",5,0.026896
+"Pittsburgh Steelers",6,0.054432
+"Pittsburgh Steelers",7,0.091966
+"Pittsburgh Steelers",8,0.131342
+"Pittsburgh Steelers",9,0.159503
+"Pittsburgh Steelers",10,0.164772
+"Pittsburgh Steelers",11,0.144039
+"Pittsburgh Steelers",12,0.10531
+"Pittsburgh Steelers",13,0.063092
+"Pittsburgh Steelers",14,0.029938
+"Pittsburgh Steelers",15,0.010613
+"Pittsburgh Steelers",16,0.002513
+"Pittsburgh Steelers",17,3e-04
+"Cincinnati Bengals",0,1e-06
+"Cincinnati Bengals",1,1e-05
+"Cincinnati Bengals",2,8e-05
+"Cincinnati Bengals",3,0.000445
+"Cincinnati Bengals",4,0.001835
+"Cincinnati Bengals",5,0.005971
+"Cincinnati Bengals",6,0.015896
+"Cincinnati Bengals",7,0.035381
+"Cincinnati Bengals",8,0.066706
+"Cincinnati Bengals",9,0.107222
+"Cincinnati Bengals",10,0.147076
+"Cincinnati Bengals",11,0.171377
+"Cincinnati Bengals",12,0.167773
+"Cincinnati Bengals",13,0.135298
+"Cincinnati Bengals",14,0.086946
+"Cincinnati Bengals",15,0.042037
+"Cincinnati Bengals",16,0.013683
+"Cincinnati Bengals",17,0.002264
+"Cleveland Browns",0,0.003721
+"Cleveland Browns",1,0.020447
+"Cleveland Browns",2,0.057306
+"Cleveland Browns",3,0.108463
+"Cleveland Browns",4,0.154865
+"Cleveland Browns",5,0.176616
+"Cleveland Browns",6,0.166264
+"Cleveland Browns",7,0.131736
+"Cleveland Browns",8,0.088806
+"Cleveland Browns",9,0.051157
+"Cleveland Browns",10,0.025153
+"Cleveland Browns",11,0.010486
+"Cleveland Browns",12,0.003658
+"Cleveland Browns",13,0.001045
+"Cleveland Browns",14,0.000236
+"Cleveland Browns",15,4e-05
+"Cleveland Browns",16,4e-06
+"Cleveland Browns",17,0
+"Houston Texans",0,0.000301
+"Houston Texans",1,0.002523
+"Houston Texans",2,0.010649
+"Houston Texans",3,0.03002
+"Houston Texans",4,0.063225
+"Houston Texans",5,0.105466
+"Houston Texans",6,0.144162
+"Houston Texans",7,0.164811
+"Houston Texans",8,0.159444
+"Houston Texans",9,0.131213
+"Houston Texans",10,0.09182
+"Houston Texans",11,0.054313
+"Houston Texans",12,0.026821
+"Houston Texans",13,0.010825
+"Houston Texans",14,0.003449
+"Houston Texans",15,0.000817
+"Houston Texans",16,0.000129
+"Houston Texans",17,1e-05
+"Indianapolis Colts",0,0.000525
+"Indianapolis Colts",1,0.004056
+"Indianapolis Colts",2,0.015797
+"Indianapolis Colts",3,0.041161
+"Indianapolis Colts",4,0.080245
+"Indianapolis Colts",5,0.124062
+"Indianapolis Colts",6,0.157339
+"Indianapolis Colts",7,0.167039
+"Indianapolis Colts",8,0.150178
+"Indianapolis Colts",9,0.114921
+"Indianapolis Colts",10,0.074812
+"Indianapolis Colts",11,0.04118
+"Indianapolis Colts",12,0.018927
+"Indianapolis Colts",13,0.00711
+"Indianapolis Colts",14,0.002108
+"Indianapolis Colts",15,0.000465
+"Indianapolis Colts",16,6.8e-05
+"Indianapolis Colts",17,5e-06
+"Jacksonville Jaguars",0,0.00026
+"Jacksonville Jaguars",1,0.002229
+"Jacksonville Jaguars",2,0.009598
+"Jacksonville Jaguars",3,0.027594
+"Jacksonville Jaguars",4,0.059254
+"Jacksonville Jaguars",5,0.100751
+"Jacksonville Jaguars",6,0.140341
+"Jacksonville Jaguars",7,0.163469
+"Jacksonville Jaguars",8,0.161102
+"Jacksonville Jaguars",9,0.135041
+"Jacksonville Jaguars",10,0.096246
+"Jacksonville Jaguars",11,0.057981
+"Jacksonville Jaguars",12,0.029159
+"Jacksonville Jaguars",13,0.011986
+"Jacksonville Jaguars",14,0.003889
+"Jacksonville Jaguars",15,0.000939
+"Jacksonville Jaguars",16,0.000151
+"Jacksonville Jaguars",17,1.2e-05
+"Tennessee Titans",0,0.000195
+"Tennessee Titans",1,0.001738
+"Tennessee Titans",2,0.007783
+"Tennessee Titans",3,0.023259
+"Tennessee Titans",4,0.051879
+"Tennessee Titans",5,0.091579
+"Tennessee Titans",6,0.13238
+"Tennessee Titans",7,0.159958
+"Tennessee Titans",8,0.163487
+"Tennessee Titans",9,0.142091
+"Tennessee Titans",10,0.104989
+"Tennessee Titans",11,0.065565
+"Tennessee Titans",12,0.034182
+"Tennessee Titans",13,0.014565
+"Tennessee Titans",14,0.0049
+"Tennessee Titans",15,0.001227
+"Tennessee Titans",16,0.000204
+"Tennessee Titans",17,1.7e-05
+"Kansas City Chiefs",0,2.1e-05
+"Kansas City Chiefs",1,0.000241
+"Kansas City Chiefs",2,0.001419
+"Kansas City Chiefs",3,0.005556
+"Kansas City Chiefs",4,0.016184
+"Kansas City Chiefs",5,0.037223
+"Kansas City Chiefs",6,0.069981
+"Kansas City Chiefs",7,0.109836
+"Kansas City Chiefs",8,0.145697
+"Kansas City Chiefs",9,0.164295
+"Kansas City Chiefs",10,0.157529
+"Kansas City Chiefs",11,0.127741
+"Kansas City Chiefs",12,0.086573
+"Kansas City Chiefs",13,0.048035
+"Kansas City Chiefs",14,0.021087
+"Kansas City Chiefs",15,0.006908
+"Kansas City Chiefs",16,0.001509
+"Kansas City Chiefs",17,0.000166
+"Los Angeles Chargers",0,1.6e-05
+"Los Angeles Chargers",1,0.000197
+"Los Angeles Chargers",2,0.001188
+"Los Angeles Chargers",3,0.004765
+"Los Angeles Chargers",4,0.014228
+"Los Angeles Chargers",5,0.033538
+"Los Angeles Chargers",6,0.064614
+"Los Angeles Chargers",7,0.103921
+"Los Angeles Chargers",8,0.141268
+"Los Angeles Chargers",9,0.16326
+"Los Angeles Chargers",10,0.160447
+"Los Angeles Chargers",11,0.13338
+"Los Angeles Chargers",12,0.092689
+"Los Angeles Chargers",13,0.052749
+"Los Angeles Chargers",14,0.023758
+"Los Angeles Chargers",15,0.007988
+"Los Angeles Chargers",16,0.001792
+"Los Angeles Chargers",17,0.000202
+"Denver Broncos",0,0.000365
+"Denver Broncos",1,0.002973
+"Denver Broncos",2,0.012212
+"Denver Broncos",3,0.033521
+"Denver Broncos",4,0.068777
+"Denver Broncos",5,0.111813
+"Denver Broncos",6,0.149006
+"Denver Broncos",7,0.166125
+"Denver Broncos",8,0.156766
+"Denver Broncos",9,0.125863
+"Denver Broncos",10,0.085939
+"Denver Broncos",11,0.049605
+"Denver Broncos",12,0.023905
+"Denver Broncos",13,0.009415
+"Denver Broncos",14,0.002927
+"Denver Broncos",15,0.000677
+"Denver Broncos",16,0.000104
+"Denver Broncos",17,8e-06
+"Las Vegas Raiders",0,0.000336
+"Las Vegas Raiders",1,0.002769
+"Las Vegas Raiders",2,0.011511
+"Las Vegas Raiders",3,0.031964
+"Las Vegas Raiders",4,0.066333
+"Las Vegas Raiders",5,0.109053
+"Las Vegas Raiders",6,0.146942
+"Las Vegas Raiders",7,0.165623
+"Las Vegas Raiders",8,0.157993
+"Las Vegas Raiders",9,0.128216
+"Las Vegas Raiders",10,0.088486
+"Las Vegas Raiders",11,0.051622
+"Las Vegas Raiders",12,0.025142
+"Las Vegas Raiders",13,0.010008
+"Las Vegas Raiders",14,0.003144
+"Las Vegas Raiders",15,0.000735
+"Las Vegas Raiders",16,0.000114
+"Las Vegas Raiders",17,9e-06
+"Philadelphia Eagles",0,1.3e-05
+"Philadelphia Eagles",1,0.000163
+"Philadelphia Eagles",2,0.001006
+"Philadelphia Eagles",3,0.00413
+"Philadelphia Eagles",4,0.01261
+"Philadelphia Eagles",5,0.030396
+"Philadelphia Eagles",6,0.059884
+"Philadelphia Eagles",7,0.098491
+"Philadelphia Eagles",8,0.136917
+"Philadelphia Eagles",9,0.161828
+"Philadelphia Eagles",10,0.162675
+"Philadelphia Eagles",11,0.138348
+"Philadelphia Eagles",12,0.098377
+"Philadelphia Eagles",13,0.057303
+"Philadelphia Eagles",14,0.026426
+"Philadelphia Eagles",15,0.0091
+"Philadelphia Eagles",16,0.002092
+"Philadelphia Eagles",17,0.000242
+"Washington Commanders",0,8e-06
+"Washington Commanders",1,0.000107
+"Washington Commanders",2,0.000692
+"Washington Commanders",3,0.002984
+"Washington Commanders",4,0.009572
+"Washington Commanders",5,0.024235
+"Washington Commanders",6,0.050146
+"Washington Commanders",7,0.086626
+"Washington Commanders",8,0.126503
+"Washington Commanders",9,0.157107
+"Washington Commanders",10,0.166
+"Washington Commanders",11,0.148455
+"Washington Commanders",12,0.111068
+"Washington Commanders",13,0.068112
+"Washington Commanders",14,0.033095
+"Washington Commanders",15,0.012019
+"Washington Commanders",16,0.002917
+"Washington Commanders",17,0.000357
+"Dallas Cowboys",0,5e-05
+"Dallas Cowboys",1,0.000534
+"Dallas Cowboys",2,0.002838
+"Dallas Cowboys",3,0.010031
+"Dallas Cowboys",4,0.026412
+"Dallas Cowboys",5,0.054945
+"Dallas Cowboys",6,0.09347
+"Dallas Cowboys",7,0.132775
+"Dallas Cowboys",8,0.159417
+"Dallas Cowboys",9,0.162691
+"Dallas Cowboys",10,0.141131
+"Dallas Cowboys",11,0.103491
+"Dallas Cowboys",12,0.063382
+"Dallas Cowboys",13,0.031752
+"Dallas Cowboys",14,0.012571
+"Dallas Cowboys",15,0.003709
+"Dallas Cowboys",16,0.000729
+"Dallas Cowboys",17,7.2e-05
+"New York Giants",0,0.000537
+"New York Giants",1,0.004132
+"New York Giants",2,0.016041
+"New York Giants",3,0.041663
+"New York Giants",4,0.08097
+"New York Giants",5,0.124799
+"New York Giants",6,0.157795
+"New York Giants",7,0.167024
+"New York Giants",8,0.149722
+"New York Giants",9,0.114237
+"New York Giants",10,0.074152
+"New York Giants",11,0.040699
+"New York Giants",12,0.018652
+"New York Giants",13,0.006987
+"New York Giants",14,0.002066
+"New York Giants",15,0.000454
+"New York Giants",16,6.6e-05
+"New York Giants",17,5e-06
+"Detroit Lions",0,0
+"Detroit Lions",1,1e-06
+"Detroit Lions",2,1.4e-05
+"Detroit Lions",3,9.5e-05
+"Detroit Lions",4,0.000464
+"Detroit Lions",5,0.00179
+"Detroit Lions",6,0.005665
+"Detroit Lions",7,0.015025
+"Detroit Lions",8,0.03384
+"Detroit Lions",9,0.065175
+"Detroit Lions",10,0.107498
+"Detroit Lions",11,0.151226
+"Detroit Lions",12,0.179568
+"Detroit Lions",13,0.176578
+"Detroit Lions",14,0.139208
+"Detroit Lions",15,0.083145
+"Detroit Lions",16,0.033701
+"Detroit Lions",17,0.007006
+"Minnesota Vikings",0,2e-06
+"Minnesota Vikings",1,3.5e-05
+"Minnesota Vikings",2,0.000254
+"Minnesota Vikings",3,0.001241
+"Minnesota Vikings",4,0.004499
+"Minnesota Vikings",5,0.012875
+"Minnesota Vikings",6,0.030123
+"Minnesota Vikings",7,0.058868
+"Minnesota Vikings",8,0.097319
+"Minnesota Vikings",9,0.136954
+"Minnesota Vikings",10,0.164168
+"Minnesota Vikings",11,0.166807
+"Minnesota Vikings",12,0.142039
+"Minnesota Vikings",13,0.099343
+"Minnesota Vikings",14,0.055183
+"Minnesota Vikings",15,0.022975
+"Minnesota Vikings",16,0.006412
+"Minnesota Vikings",17,0.000905
+"Green Bay Packers",0,1e-06
+"Green Bay Packers",1,1.6e-05
+"Green Bay Packers",2,0.000123
+"Green Bay Packers",3,0.000653
+"Green Bay Packers",4,0.00257
+"Green Bay Packers",5,0.007984
+"Green Bay Packers",6,0.020285
+"Green Bay Packers",7,0.043073
+"Green Bay Packers",8,0.077426
+"Green Bay Packers",9,0.118585
+"Green Bay Packers",10,0.154877
+"Green Bay Packers",11,0.171681
+"Green Bay Packers",12,0.15973
+"Green Bay Packers",13,0.122279
+"Green Bay Packers",14,0.074496
+"Green Bay Packers",15,0.034095
+"Green Bay Packers",16,0.010488
+"Green Bay Packers",17,0.001636
+"Chicago Bears",0,0.003539
+"Chicago Bears",1,0.019643
+"Chicago Bears",2,0.055581
+"Chicago Bears",3,0.106171
+"Chicago Bears",4,0.152952
+"Chicago Bears",5,0.175953
+"Chicago Bears",6,0.167044
+"Chicago Bears",7,0.133451
+"Chicago Bears",8,0.090691
+"Chicago Bears",9,0.052658
+"Chicago Bears",10,0.026094
+"Chicago Bears",11,0.010962
+"Chicago Bears",12,0.003853
+"Chicago Bears",13,0.001109
+"Chicago Bears",14,0.000252
+"Chicago Bears",15,4.3e-05
+"Chicago Bears",16,5e-06
+"Chicago Bears",17,0
+"Tampa Bay Buccaneers",0,3e-06
+"Tampa Bay Buccaneers",1,4.5e-05
+"Tampa Bay Buccaneers",2,0.000322
+"Tampa Bay Buccaneers",3,0.001525
+"Tampa Bay Buccaneers",4,0.005378
+"Tampa Bay Buccaneers",5,0.014973
+"Tampa Bay Buccaneers",6,0.034074
+"Tampa Bay Buccaneers",7,0.064759
+"Tampa Bay Buccaneers",8,0.104095
+"Tampa Bay Buccaneers",9,0.142398
+"Tampa Bay Buccaneers",10,0.165873
+"Tampa Bay Buccaneers",11,0.163718
+"Tampa Bay Buccaneers",12,0.135359
+"Tampa Bay Buccaneers",13,0.091874
+"Tampa Bay Buccaneers",14,0.049497
+"Tampa Bay Buccaneers",15,0.019972
+"Tampa Bay Buccaneers",16,0.005398
+"Tampa Bay Buccaneers",17,0.000737
+"Atlanta Falcons",0,3.2e-05
+"Atlanta Falcons",1,0.000361
+"Atlanta Falcons",2,0.00202
+"Atlanta Falcons",3,0.007514
+"Atlanta Falcons",4,0.020815
+"Atlanta Falcons",5,0.045537
+"Atlanta Falcons",6,0.081447
+"Atlanta Falcons",7,0.121621
+"Atlanta Falcons",8,0.153492
+"Atlanta Falcons",9,0.164659
+"Atlanta Falcons",10,0.150164
+"Atlanta Falcons",11,0.115786
+"Atlanta Falcons",12,0.074587
+"Atlanta Falcons",13,0.039317
+"Atlanta Falcons",14,0.016388
+"Atlanta Falcons",15,0.005093
+"Atlanta Falcons",16,0.001055
+"Atlanta Falcons",17,0.00011
+"Carolina Panthers",0,0.000133
+"Carolina Panthers",1,0.001247
+"Carolina Panthers",2,0.005874
+"Carolina Panthers",3,0.018447
+"Carolina Panthers",4,0.043209
+"Carolina Panthers",5,0.080052
+"Carolina Panthers",6,0.121386
+"Carolina Panthers",7,0.153801
+"Carolina Panthers",8,0.164782
+"Carolina Panthers",9,0.150098
+"Carolina Panthers",10,0.11622
+"Carolina Panthers",11,0.076054
+"Carolina Panthers",12,0.041551
+"Carolina Panthers",13,0.018557
+"Carolina Panthers",14,0.006544
+"Carolina Panthers",15,0.001718
+"Carolina Panthers",16,3e-04
+"Carolina Panthers",17,2.6e-05
+"New Orleans Saints",0,0.000474
+"New Orleans Saints",1,0.003714
+"New Orleans Saints",2,0.01469
+"New Orleans Saints",3,0.038856
+"New Orleans Saints",4,0.076872
+"New Orleans Saints",5,0.120576
+"New Orleans Saints",6,0.155109
+"New Orleans Saints",7,0.167001
+"New Orleans Saints",8,0.152244
+"New Orleans Saints",9,0.118117
+"New Orleans Saints",10,0.077951
+"New Orleans Saints",11,0.043496
+"New Orleans Saints",12,0.020264
+"New Orleans Saints",13,0.007716
+"New Orleans Saints",14,0.002319
+"New Orleans Saints",15,0.000518
+"New Orleans Saints",16,7.7e-05
+"New Orleans Saints",17,6e-06
+"Los Angeles Rams",0,0.000133
+"Los Angeles Rams",1,0.001249
+"Los Angeles Rams",2,0.005883
+"Los Angeles Rams",3,0.018471
+"Los Angeles Rams",4,0.043254
+"Los Angeles Rams",5,0.080113
+"Los Angeles Rams",6,0.121448
+"Los Angeles Rams",7,0.153839
+"Los Angeles Rams",8,0.164781
+"Los Angeles Rams",9,0.150059
+"Los Angeles Rams",10,0.11616
+"Los Angeles Rams",11,0.075995
+"Los Angeles Rams",12,0.041508
+"Los Angeles Rams",13,0.018533
+"Los Angeles Rams",14,0.006534
+"Los Angeles Rams",15,0.001715
+"Los Angeles Rams",16,0.000299
+"Los Angeles Rams",17,2.6e-05
+"Seattle Seahawks",0,0.000107
+"Seattle Seahawks",1,0.001036
+"Seattle Seahawks",2,0.005016
+"Seattle Seahawks",3,0.016181
+"Seattle Seahawks",4,0.038918
+"Seattle Seahawks",5,0.074016
+"Seattle Seahawks",6,0.115186
+"Seattle Seahawks",7,0.149756
+"Seattle Seahawks",8,0.164617
+"Seattle Seahawks",9,0.15383
+"Seattle Seahawks",10,0.122188
+"Seattle Seahawks",11,0.082027
+"Seattle Seahawks",12,0.045975
+"Seattle Seahawks",13,0.021067
+"Seattle Seahawks",14,0.007624
+"Seattle Seahawks",15,0.002054
+"Seattle Seahawks",16,0.000368
+"Seattle Seahawks",17,3.3e-05
+"Arizona Cardinals",0,0.000349
+"Arizona Cardinals",1,0.002863
+"Arizona Cardinals",2,0.011836
+"Arizona Cardinals",3,0.032689
+"Arizona Cardinals",4,0.067476
+"Arizona Cardinals",5,0.110351
+"Arizona Cardinals",6,0.147921
+"Arizona Cardinals",7,0.165873
+"Arizona Cardinals",8,0.157428
+"Arizona Cardinals",9,0.127115
+"Arizona Cardinals",10,0.087286
+"Arizona Cardinals",11,0.050668
+"Arizona Cardinals",12,0.024555
+"Arizona Cardinals",13,0.009725
+"Arizona Cardinals",14,0.00304
+"Arizona Cardinals",15,0.000707
+"Arizona Cardinals",16,0.000109
+"Arizona Cardinals",17,8e-06
+"San Francisco 49ers",0,1.8e-05
+"San Francisco 49ers",1,0.000218
+"San Francisco 49ers",2,0.0013
+"San Francisco 49ers",3,0.005151
+"San Francisco 49ers",4,0.015189
+"San Francisco 49ers",5,0.035363
+"San Francisco 49ers",6,0.067296
+"San Francisco 49ers",7,0.10691
+"San Francisco 49ers",8,0.143547
+"San Francisco 49ers",9,0.163852
+"San Francisco 49ers",10,0.159036
+"San Francisco 49ers",11,0.13056
+"San Francisco 49ers",12,0.089589
+"San Francisco 49ers",13,0.050336
+"San Francisco 49ers",14,0.02238
+"San Francisco 49ers",15,0.007426
+"San Francisco 49ers",16,0.001644
+"San Francisco 49ers",17,0.000183

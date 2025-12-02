@@ -1,0 +1,577 @@
+"team","wins","prob"
+"Arizona Cardinals",0,1.03513509735463e-05
+"Arizona Cardinals",1,0.000169712741078891
+"Arizona Cardinals",2,0.00130940178138236
+"Arizona Cardinals",3,0.00631409954177476
+"Arizona Cardinals",4,0.0213131656862004
+"Arizona Cardinals",5,0.0534428735590129
+"Arizona Cardinals",6,0.103083294447284
+"Arizona Cardinals",7,0.156225321612524
+"Arizona Cardinals",8,0.188334521464808
+"Arizona Cardinals",9,0.181634534577445
+"Arizona Cardinals",10,0.140138319388587
+"Arizona Cardinals",11,0.0860063965604049
+"Arizona Cardinals",12,0.0414733626327008
+"Arizona Cardinals",13,0.0153838272219087
+"Arizona Cardinals",14,0.00423901391105044
+"Arizona Cardinals",15,0.000817642259966488
+"Arizona Cardinals",16,9.85693370131918e-05
+"Arizona Cardinals",17,5.59192588390369e-06
+"Atlanta Falcons",0,1.03513509735463e-05
+"Atlanta Falcons",1,0.000169712741078891
+"Atlanta Falcons",2,0.00130940178138236
+"Atlanta Falcons",3,0.00631409954177476
+"Atlanta Falcons",4,0.0213131656862004
+"Atlanta Falcons",5,0.0534428735590129
+"Atlanta Falcons",6,0.103083294447284
+"Atlanta Falcons",7,0.156225321612524
+"Atlanta Falcons",8,0.188334521464808
+"Atlanta Falcons",9,0.181634534577445
+"Atlanta Falcons",10,0.140138319388587
+"Atlanta Falcons",11,0.0860063965604049
+"Atlanta Falcons",12,0.0414733626327008
+"Atlanta Falcons",13,0.0153838272219087
+"Atlanta Falcons",14,0.00423901391105044
+"Atlanta Falcons",15,0.000817642259966488
+"Atlanta Falcons",16,9.85693370131918e-05
+"Atlanta Falcons",17,5.59192588390369e-06
+"Baltimore Ravens",0,5.61510369480403e-07
+"Baltimore Ravens",1,1.27126005045036e-05
+"Baltimore Ravens",2,0.000135441602524027
+"Baltimore Ravens",3,0.000901882136928726
+"Baltimore Ravens",4,0.00420383369383703
+"Baltimore Ravens",5,0.0145561516632043
+"Baltimore Ravens",6,0.0387707555812193
+"Baltimore Ravens",7,0.0811384313377024
+"Baltimore Ravens",8,0.13507168491474
+"Baltimore Ravens",9,0.179883783947195
+"Baltimore Ravens",10,0.191650386223203
+"Baltimore Ravens",11,0.16242121348293
+"Baltimore Ravens",12,0.108153468630553
+"Baltimore Ravens",13,0.0553980912960244
+"Baltimore Ravens",14,0.021079216020042
+"Baltimore Ravens",15,0.00561451371946524
+"Baltimore Ravens",16,0.000934651823509818
+"Baltimore Ravens",17,7.32198160477079e-05
+"Buffalo Bills",0,2.11460903325493e-07
+"Buffalo Bills",1,5.2831112547482e-06
+"Buffalo Bills",2,6.21141426782069e-05
+"Buffalo Bills",3,0.000456426920451125
+"Buffalo Bills",4,0.00234774026189551
+"Buffalo Bills",5,0.00897086141750238
+"Buffalo Bills",6,0.0263678606773784
+"Buffalo Bills",7,0.0608948117671988
+"Buffalo Bills",8,0.111866759356019
+"Buffalo Bills",9,0.164403783976331
+"Buffalo Bills",10,0.193291407323006
+"Buffalo Bills",11,0.180770956041107
+"Buffalo Bills",12,0.132834049083313
+"Buffalo Bills",13,0.0750838986965426
+"Buffalo Bills",14,0.0315274991490336
+"Buffalo Bills",15,0.00926681024685073
+"Buffalo Bills",16,0.00170235854549554
+"Buffalo Bills",17,0.000147167823039742
+"Carolina Panthers",0,7.1064114927886e-05
+"Carolina Panthers",1,0.000910855808464274
+"Carolina Panthers",2,0.00549401674086444
+"Carolina Panthers",3,0.0207114422422895
+"Carolina Panthers",4,0.0546548549070748
+"Carolina Panthers",5,0.10714020005972
+"Carolina Panthers",6,0.161559614397177
+"Carolina Panthers",7,0.19141581303601
+"Carolina Panthers",8,0.180400686007576
+"Carolina Panthers",9,0.136015544362081
+"Carolina Panthers",10,0.0820406117849742
+"Carolina Panthers",11,0.0393626749990395
+"Carolina Panthers",12,0.0148390113863458
+"Carolina Panthers",13,0.00430310535648446
+"Carolina Panthers",14,0.000926967044404761
+"Carolina Panthers",15,0.000139779875499063
+"Carolina Panthers",16,1.31736166569168e-05
+"Carolina Panthers",17,5.84260410554246e-07
+"Chicago Bears",0,7.1064114927886e-05
+"Chicago Bears",1,0.000910855808464274
+"Chicago Bears",2,0.00549401674086444
+"Chicago Bears",3,0.0207114422422895
+"Chicago Bears",4,0.0546548549070748
+"Chicago Bears",5,0.10714020005972
+"Chicago Bears",6,0.161559614397177
+"Chicago Bears",7,0.19141581303601
+"Chicago Bears",8,0.180400686007576
+"Chicago Bears",9,0.136015544362081
+"Chicago Bears",10,0.0820406117849742
+"Chicago Bears",11,0.0393626749990395
+"Chicago Bears",12,0.0148390113863458
+"Chicago Bears",13,0.00430310535648446
+"Chicago Bears",14,0.000926967044404761
+"Chicago Bears",15,0.000139779875499063
+"Chicago Bears",16,1.31736166569168e-05
+"Chicago Bears",17,5.84260410554246e-07
+"Cincinnati Bengals",0,5.39707885790635e-06
+"Cincinnati Bengals",1,9.55250445872816e-05
+"Cincinnati Bengals",2,0.00079564035056697
+"Cincinnati Bengals",3,0.00414186909166996
+"Cincinnati Bengals",4,0.0150929445599566
+"Cincinnati Bengals",5,0.0408560982055843
+"Cincinnati Bengals",6,0.0850739207700345
+"Cincinnati Bengals",7,0.13918763563492
+"Cincinnati Bengals",8,0.181142448836364
+"Cincinnati Bengals",9,0.188594836722422
+"Cincinnati Bengals",10,0.157083058849393
+"Cincinnati Bengals",11,0.104074484514095
+"Cincinnati Bengals",12,0.0541781082788526
+"Cincinnati Bengals",13,0.0216950199020316
+"Cincinnati Bengals",14,0.00645359299490079
+"Cincinnati Bengals",15,0.00134382009845276
+"Cincinnati Bengals",16,0.000174888281073858
+"Cincinnati Bengals",17,1.0710786236652e-05
+"Cleveland Browns",0,0.000313066756622682
+"Cleveland Browns",1,0.00323296095559919
+"Cleveland Browns",2,0.0157110434970842
+"Cleveland Browns",3,0.0477188116322155
+"Cleveland Browns",4,0.101454718065635
+"Cleveland Browns",5,0.160236031576481
+"Cleveland Browns",6,0.194672569238597
+"Cleveland Browns",7,0.185829214053852
+"Cleveland Browns",8,0.141103760276078
+"Cleveland Browns",9,0.0857142780931268
+"Cleveland Browns",10,0.0416540988257218
+"Cleveland Browns",11,0.016101920655195
+"Cleveland Browns",12,0.00489060143461972
+"Cleveland Browns",13,0.00114262443518777
+"Cleveland Browns",14,0.000198312480732643
+"Cleveland Browns",15,2.40932078487457e-05
+"Cleveland Browns",16,1.82944444008999e-06
+"Cleveland Browns",17,6.53709637199277e-08
+"Dallas Cowboys",0,1.95340227607931e-05
+"Dallas Cowboys",1,0.000296345760127417
+"Dallas Cowboys",2,0.00211566456598304
+"Dallas Cowboys",3,0.00944006368150768
+"Dallas Cowboys",4,0.0294849961665163
+"Dallas Cowboys",5,0.0684120384142413
+"Dallas Cowboys",6,0.122101397281211
+"Dallas Cowboys",7,0.171227448935702
+"Dallas Cowboys",8,0.191003579674748
+"Dallas Cowboys",9,0.170451023712991
+"Dallas Cowboys",10,0.121687987353036
+"Dallas Cowboys",11,0.0691052703507786
+"Dallas Cowboys",12,0.0308346683745701
+"Dallas Cowboys",13,0.0105833715046798
+"Dallas Cowboys",14,0.0026984483153658
+"Dallas Cowboys",15,0.000481617442535824
+"Dallas Cowboys",16,5.37242458086748e-05
+"Dallas Cowboys",17,2.82019743599469e-06
+"Denver Broncos",0,2.71826161439427e-06
+"Denver Broncos",1,5.19948252508354e-05
+"Denver Broncos",2,0.000468026085417153
+"Denver Broncos",3,0.00263305549607777
+"Denver Broncos",4,0.010369265780287
+"Denver Broncos",5,0.0303348116995341
+"Denver Broncos",6,0.0682639238765944
+"Denver Broncos",7,0.120699603292768
+"Denver Broncos",8,0.169760171348765
+"Denver Broncos",9,0.191009845866419
+"Denver Broncos",10,0.171935553212687
+"Denver Broncos",11,0.123109337559886
+"Denver Broncos",12,0.0692597545266373
+"Denver Broncos",13,0.0299728161109484
+"Denver Broncos",14,0.00963561533401276
+"Denver Broncos",15,0.00216835007311186
+"Denver Broncos",16,0.000304971573984975
+"Denver Broncos",17,2.01850760044686e-05
+"Detroit Lions",0,1.1670350356265e-08
+"Detroit Lions",1,3.82602448052612e-07
+"Detroit Lions",2,5.90272649364524e-06
+"Detroit Lions",3,5.69164223793565e-05
+"Detroit Lions",4,0.000384167451764371
+"Detroit Lions",5,0.00192623311036556
+"Detroit Lions",6,0.00742940045951298
+"Detroit Lions",7,0.0225145536939675
+"Detroit Lions",8,0.0542735568515728
+"Detroit Lions",9,0.104665418230703
+"Detroit Lions",10,0.16147605440148
+"Detroit Lions",11,0.198165666738236
+"Detroit Lions",12,0.191079169961592
+"Detroit Lions",13,0.141727761245186
+"Detroit Lions",14,0.0780911487559039
+"Detroit Lions",15,0.0301194291245936
+"Detroit Lions",16,0.00726058606868384
+"Detroit Lions",17,0.000823640484766361
+"Green Bay Packers",0,1.29247183704902e-06
+"Green Bay Packers",1,2.68096870523253e-05
+"Green Bay Packers",2,0.000261699845389806
+"Green Bay Packers",3,0.00159659661784238
+"Green Bay Packers",4,0.00681843938201853
+"Green Bay Packers",5,0.0216311727843819
+"Green Bay Packers",6,0.0527875853439134
+"Green Bay Packers",7,0.101215768347658
+"Green Bay Packers",8,0.154376049759871
+"Green Bay Packers",9,0.188365628229812
+"Green Bay Packers",10,0.18387106006976
+"Green Bay Packers",11,0.142771153815852
+"Green Bay Packers",12,0.0871028184859308
+"Green Bay Packers",13,0.0408771486903637
+"Green Bay Packers",14,0.0142506372408355
+"Green Bay Packers",15,0.00347765115213216
+"Green Bay Packers",16,0.000530417400443957
+"Green Bay Packers",17,3.80706749045066e-05
+"Houston Texans",0,2.71826161439427e-06
+"Houston Texans",1,5.19948252508354e-05
+"Houston Texans",2,0.000468026085417153
+"Houston Texans",3,0.00263305549607777
+"Houston Texans",4,0.010369265780287
+"Houston Texans",5,0.0303348116995341
+"Houston Texans",6,0.0682639238765944
+"Houston Texans",7,0.120699603292768
+"Houston Texans",8,0.169760171348765
+"Houston Texans",9,0.191009845866419
+"Houston Texans",10,0.171935553212687
+"Houston Texans",11,0.123109337559886
+"Houston Texans",12,0.0692597545266373
+"Houston Texans",13,0.0299728161109484
+"Houston Texans",14,0.00963561533401276
+"Houston Texans",15,0.00216835007311186
+"Houston Texans",16,0.000304971573984975
+"Houston Texans",17,2.01850760044686e-05
+"Indianapolis Colts",0,1.03513509735463e-05
+"Indianapolis Colts",1,0.000169712741078891
+"Indianapolis Colts",2,0.00130940178138236
+"Indianapolis Colts",3,0.00631409954177476
+"Indianapolis Colts",4,0.0213131656862004
+"Indianapolis Colts",5,0.0534428735590129
+"Indianapolis Colts",6,0.103083294447284
+"Indianapolis Colts",7,0.156225321612524
+"Indianapolis Colts",8,0.188334521464808
+"Indianapolis Colts",9,0.181634534577445
+"Indianapolis Colts",10,0.140138319388587
+"Indianapolis Colts",11,0.0860063965604049
+"Indianapolis Colts",12,0.0414733626327008
+"Indianapolis Colts",13,0.0153838272219087
+"Indianapolis Colts",14,0.00423901391105044
+"Indianapolis Colts",15,0.000817642259966488
+"Indianapolis Colts",16,9.85693370131918e-05
+"Indianapolis Colts",17,5.59192588390369e-06
+"Jacksonville Jaguars",0,0.0001430732784023
+"Jacksonville Jaguars",1,0.00166178469469644
+"Jacksonville Jaguars",2,0.00908305714095391
+"Jacksonville Jaguars",3,0.0310291125894411
+"Jacksonville Jaguars",4,0.0742001364962206
+"Jacksonville Jaguars",5,0.131809088499326
+"Jacksonville Jaguars",6,0.180112003431817
+"Jacksonville Jaguars",7,0.193376905755563
+"Jacksonville Jaguars",8,0.165151272522353
+"Jacksonville Jaguars",9,0.11283640188236
+"Jacksonville Jaguars",10,0.0616746254281954
+"Jacksonville Jaguars",11,0.0268150851262333
+"Jacksonville Jaguars",12,0.00916044325787384
+"Jacksonville Jaguars",13,0.00240719041555839
+"Jacksonville Jaguars",14,0.000469904610117021
+"Jacksonville Jaguars",15,6.42106410973751e-05
+"Jacksonville Jaguars",16,5.48383430031302e-06
+"Jacksonville Jaguars",17,2.20395491862002e-07
+"Kansas City Chiefs",0,1.1670350356265e-08
+"Kansas City Chiefs",1,3.82602448052612e-07
+"Kansas City Chiefs",2,5.90272649364524e-06
+"Kansas City Chiefs",3,5.69164223793565e-05
+"Kansas City Chiefs",4,0.000384167451764371
+"Kansas City Chiefs",5,0.00192623311036556
+"Kansas City Chiefs",6,0.00742940045951298
+"Kansas City Chiefs",7,0.0225145536939675
+"Kansas City Chiefs",8,0.0542735568515728
+"Kansas City Chiefs",9,0.104665418230703
+"Kansas City Chiefs",10,0.16147605440148
+"Kansas City Chiefs",11,0.198165666738236
+"Kansas City Chiefs",12,0.191079169961592
+"Kansas City Chiefs",13,0.141727761245186
+"Kansas City Chiefs",14,0.0780911487559039
+"Kansas City Chiefs",15,0.0301194291245936
+"Kansas City Chiefs",16,0.00726058606868384
+"Kansas City Chiefs",17,0.000823640484766361
+"Las Vegas Raiders",0,0.0001430732784023
+"Las Vegas Raiders",1,0.00166178469469644
+"Las Vegas Raiders",2,0.00908305714095391
+"Las Vegas Raiders",3,0.0310291125894411
+"Las Vegas Raiders",4,0.0742001364962206
+"Las Vegas Raiders",5,0.131809088499326
+"Las Vegas Raiders",6,0.180112003431817
+"Las Vegas Raiders",7,0.193376905755563
+"Las Vegas Raiders",8,0.165151272522353
+"Las Vegas Raiders",9,0.11283640188236
+"Las Vegas Raiders",10,0.0616746254281954
+"Las Vegas Raiders",11,0.0268150851262333
+"Las Vegas Raiders",12,0.00916044325787384
+"Las Vegas Raiders",13,0.00240719041555839
+"Las Vegas Raiders",14,0.000469904610117021
+"Las Vegas Raiders",15,6.42106410973751e-05
+"Las Vegas Raiders",16,5.48383430031302e-06
+"Las Vegas Raiders",17,2.20395491862002e-07
+"Los Angeles Chargers",0,1.29247183704902e-06
+"Los Angeles Chargers",1,2.68096870523253e-05
+"Los Angeles Chargers",2,0.000261699845389806
+"Los Angeles Chargers",3,0.00159659661784238
+"Los Angeles Chargers",4,0.00681843938201853
+"Los Angeles Chargers",5,0.0216311727843819
+"Los Angeles Chargers",6,0.0527875853439134
+"Los Angeles Chargers",7,0.101215768347658
+"Los Angeles Chargers",8,0.154376049759871
+"Los Angeles Chargers",9,0.188365628229812
+"Los Angeles Chargers",10,0.18387106006976
+"Los Angeles Chargers",11,0.142771153815852
+"Los Angeles Chargers",12,0.0871028184859308
+"Los Angeles Chargers",13,0.0408771486903637
+"Los Angeles Chargers",14,0.0142506372408355
+"Los Angeles Chargers",15,0.00347765115213216
+"Los Angeles Chargers",16,0.000530417400443957
+"Los Angeles Chargers",17,3.80706749045066e-05
+"Los Angeles Rams",0,2.71826161439427e-06
+"Los Angeles Rams",1,5.19948252508354e-05
+"Los Angeles Rams",2,0.000468026085417153
+"Los Angeles Rams",3,0.00263305549607777
+"Los Angeles Rams",4,0.010369265780287
+"Los Angeles Rams",5,0.0303348116995341
+"Los Angeles Rams",6,0.0682639238765944
+"Los Angeles Rams",7,0.120699603292768
+"Los Angeles Rams",8,0.169760171348765
+"Los Angeles Rams",9,0.191009845866419
+"Los Angeles Rams",10,0.171935553212687
+"Los Angeles Rams",11,0.123109337559886
+"Los Angeles Rams",12,0.0692597545266373
+"Los Angeles Rams",13,0.0299728161109484
+"Los Angeles Rams",14,0.00963561533401276
+"Los Angeles Rams",15,0.00216835007311186
+"Los Angeles Rams",16,0.000304971573984975
+"Los Angeles Rams",17,2.01850760044686e-05
+"Miami Dolphins",0,1.03513509735463e-05
+"Miami Dolphins",1,0.000169712741078891
+"Miami Dolphins",2,0.00130940178138236
+"Miami Dolphins",3,0.00631409954177476
+"Miami Dolphins",4,0.0213131656862004
+"Miami Dolphins",5,0.0534428735590129
+"Miami Dolphins",6,0.103083294447284
+"Miami Dolphins",7,0.156225321612524
+"Miami Dolphins",8,0.188334521464808
+"Miami Dolphins",9,0.181634534577445
+"Miami Dolphins",10,0.140138319388587
+"Miami Dolphins",11,0.0860063965604049
+"Miami Dolphins",12,0.0414733626327008
+"Miami Dolphins",13,0.0153838272219087
+"Miami Dolphins",14,0.00423901391105044
+"Miami Dolphins",15,0.000817642259966488
+"Miami Dolphins",16,9.85693370131918e-05
+"Miami Dolphins",17,5.59192588390369e-06
+"Minnesota Vikings",0,6.25988160055091e-08
+"Minnesota Vikings",1,1.75905133011819e-06
+"Minnesota Vikings",2,2.32611923087998e-05
+"Minnesota Vikings",3,0.000192249601519095
+"Minnesota Vikings",4,0.00111223604342878
+"Minnesota Vikings",5,0.00478006481004856
+"Minnesota Vikings",6,0.0158025529004312
+"Minnesota Vikings",7,0.0410473732206916
+"Minnesota Vikings",8,0.0848123028295738
+"Minnesota Vikings",9,0.140191708201768
+"Minnesota Vikings",10,0.185385510288741
+"Minnesota Vikings",11,0.195004491172184
+"Minnesota Vikings",12,0.161167730461107
+"Minnesota Vikings",13,0.102463270641956
+"Minnesota Vikings",14,0.0483908936388985
+"Minnesota Vikings",15,0.0159976838602752
+"Minnesota Vikings",16,0.00330545002437695
+"Minnesota Vikings",17,0.000321399462545201
+"New England Patriots",0,0.0001430732784023
+"New England Patriots",1,0.00166178469469644
+"New England Patriots",2,0.00908305714095391
+"New England Patriots",3,0.0310291125894411
+"New England Patriots",4,0.0742001364962206
+"New England Patriots",5,0.131809088499326
+"New England Patriots",6,0.180112003431817
+"New England Patriots",7,0.193376905755563
+"New England Patriots",8,0.165151272522353
+"New England Patriots",9,0.11283640188236
+"New England Patriots",10,0.0616746254281954
+"New England Patriots",11,0.0268150851262333
+"New England Patriots",12,0.00916044325787384
+"New England Patriots",13,0.00240719041555839
+"New England Patriots",14,0.000469904610117021
+"New England Patriots",15,6.42106410973751e-05
+"New England Patriots",16,5.48383430031302e-06
+"New England Patriots",17,2.20395491862002e-07
+"New Orleans Saints",0,7.1064114927886e-05
+"New Orleans Saints",1,0.000910855808464274
+"New Orleans Saints",2,0.00549401674086444
+"New Orleans Saints",3,0.0207114422422895
+"New Orleans Saints",4,0.0546548549070748
+"New Orleans Saints",5,0.10714020005972
+"New Orleans Saints",6,0.161559614397177
+"New Orleans Saints",7,0.19141581303601
+"New Orleans Saints",8,0.180400686007576
+"New Orleans Saints",9,0.136015544362081
+"New Orleans Saints",10,0.0820406117849742
+"New Orleans Saints",11,0.0393626749990395
+"New Orleans Saints",12,0.0148390113863458
+"New Orleans Saints",13,0.00430310535648446
+"New Orleans Saints",14,0.000926967044404761
+"New Orleans Saints",15,0.000139779875499063
+"New Orleans Saints",16,1.31736166569168e-05
+"New Orleans Saints",17,5.84260410554246e-07
+"New York Giants",0,0.000313066756622682
+"New York Giants",1,0.00323296095559919
+"New York Giants",2,0.0157110434970842
+"New York Giants",3,0.0477188116322155
+"New York Giants",4,0.101454718065635
+"New York Giants",5,0.160236031576481
+"New York Giants",6,0.194672569238597
+"New York Giants",7,0.185829214053852
+"New York Giants",8,0.141103760276078
+"New York Giants",9,0.0857142780931268
+"New York Giants",10,0.0416540988257218
+"New York Giants",11,0.016101920655195
+"New York Giants",12,0.00489060143461972
+"New York Giants",13,0.00114262443518777
+"New York Giants",14,0.000198312480732643
+"New York Giants",15,2.40932078487457e-05
+"New York Giants",16,1.82944444008999e-06
+"New York Giants",17,6.53709637199277e-08
+"New York Jets",0,7.1064114927886e-05
+"New York Jets",1,0.000910855808464274
+"New York Jets",2,0.00549401674086444
+"New York Jets",3,0.0207114422422895
+"New York Jets",4,0.0546548549070748
+"New York Jets",5,0.10714020005972
+"New York Jets",6,0.161559614397177
+"New York Jets",7,0.19141581303601
+"New York Jets",8,0.180400686007576
+"New York Jets",9,0.136015544362081
+"New York Jets",10,0.0820406117849742
+"New York Jets",11,0.0393626749990395
+"New York Jets",12,0.0148390113863458
+"New York Jets",13,0.00430310535648446
+"New York Jets",14,0.000926967044404761
+"New York Jets",15,0.000139779875499063
+"New York Jets",16,1.31736166569168e-05
+"New York Jets",17,5.84260410554246e-07
+"Philadelphia Eagles",0,6.25988160055091e-08
+"Philadelphia Eagles",1,1.75905133011819e-06
+"Philadelphia Eagles",2,2.32611923087998e-05
+"Philadelphia Eagles",3,0.000192249601519095
+"Philadelphia Eagles",4,0.00111223604342878
+"Philadelphia Eagles",5,0.00478006481004856
+"Philadelphia Eagles",6,0.0158025529004312
+"Philadelphia Eagles",7,0.0410473732206916
+"Philadelphia Eagles",8,0.0848123028295738
+"Philadelphia Eagles",9,0.140191708201768
+"Philadelphia Eagles",10,0.185385510288741
+"Philadelphia Eagles",11,0.195004491172184
+"Philadelphia Eagles",12,0.161167730461107
+"Philadelphia Eagles",13,0.102463270641956
+"Philadelphia Eagles",14,0.0483908936388985
+"Philadelphia Eagles",15,0.0159976838602752
+"Philadelphia Eagles",16,0.00330545002437695
+"Philadelphia Eagles",17,0.000321399462545201
+"Pittsburgh Steelers",0,2.71826161439427e-06
+"Pittsburgh Steelers",1,5.19948252508354e-05
+"Pittsburgh Steelers",2,0.000468026085417153
+"Pittsburgh Steelers",3,0.00263305549607777
+"Pittsburgh Steelers",4,0.010369265780287
+"Pittsburgh Steelers",5,0.0303348116995341
+"Pittsburgh Steelers",6,0.0682639238765944
+"Pittsburgh Steelers",7,0.120699603292768
+"Pittsburgh Steelers",8,0.169760171348765
+"Pittsburgh Steelers",9,0.191009845866419
+"Pittsburgh Steelers",10,0.171935553212687
+"Pittsburgh Steelers",11,0.123109337559886
+"Pittsburgh Steelers",12,0.0692597545266373
+"Pittsburgh Steelers",13,0.0299728161109484
+"Pittsburgh Steelers",14,0.00963561533401276
+"Pittsburgh Steelers",15,0.00216835007311186
+"Pittsburgh Steelers",16,0.000304971573984975
+"Pittsburgh Steelers",17,2.01850760044686e-05
+"San Francisco 49ers",0,3.68944104809103e-05
+"San Francisco 49ers",1,0.000516137981056632
+"San Francisco 49ers",2,0.00339791200336661
+"San Francisco 49ers",3,0.013981007025227
+"San Francisco 49ers",4,0.0402682559383664
+"San Francisco 49ers",5,0.0861573812615722
+"San Francisco 49ers",6,0.14180084139904
+"San Francisco 49ers",7,0.183370629088916
+"San Francisco 49ers",8,0.188623634968501
+"San Francisco 49ers",9,0.155221698678813
+"San Francisco 49ers",10,0.102187727406525
+"San Francisco 49ers",11,0.053513137872636
+"San Francisco 49ers",12,0.0220184500304303
+"San Francisco 49ers",13,0.00696898801958949
+"San Francisco 49ers",14,0.00163854357556839
+"San Francisco 49ers",15,0.000269677251423403
+"San Francisco 49ers",16,2.77402677214631e-05
+"San Francisco 49ers",17,1.34282076588485e-06
+"Seattle Seahawks",0,2.71826161439427e-06
+"Seattle Seahawks",1,5.19948252508354e-05
+"Seattle Seahawks",2,0.000468026085417153
+"Seattle Seahawks",3,0.00263305549607777
+"Seattle Seahawks",4,0.010369265780287
+"Seattle Seahawks",5,0.0303348116995341
+"Seattle Seahawks",6,0.0682639238765944
+"Seattle Seahawks",7,0.120699603292768
+"Seattle Seahawks",8,0.169760171348765
+"Seattle Seahawks",9,0.191009845866419
+"Seattle Seahawks",10,0.171935553212687
+"Seattle Seahawks",11,0.123109337559886
+"Seattle Seahawks",12,0.0692597545266373
+"Seattle Seahawks",13,0.0299728161109484
+"Seattle Seahawks",14,0.00963561533401276
+"Seattle Seahawks",15,0.00216835007311186
+"Seattle Seahawks",16,0.000304971573984975
+"Seattle Seahawks",17,2.01850760044686e-05
+"Tampa Bay Buccaneers",0,2.71826161439427e-06
+"Tampa Bay Buccaneers",1,5.19948252508354e-05
+"Tampa Bay Buccaneers",2,0.000468026085417153
+"Tampa Bay Buccaneers",3,0.00263305549607777
+"Tampa Bay Buccaneers",4,0.010369265780287
+"Tampa Bay Buccaneers",5,0.0303348116995341
+"Tampa Bay Buccaneers",6,0.0682639238765944
+"Tampa Bay Buccaneers",7,0.120699603292768
+"Tampa Bay Buccaneers",8,0.169760171348765
+"Tampa Bay Buccaneers",9,0.191009845866419
+"Tampa Bay Buccaneers",10,0.171935553212687
+"Tampa Bay Buccaneers",11,0.123109337559886
+"Tampa Bay Buccaneers",12,0.0692597545266373
+"Tampa Bay Buccaneers",13,0.0299728161109484
+"Tampa Bay Buccaneers",14,0.00963561533401276
+"Tampa Bay Buccaneers",15,0.00216835007311186
+"Tampa Bay Buccaneers",16,0.000304971573984975
+"Tampa Bay Buccaneers",17,2.01850760044686e-05
+"Tennessee Titans",0,0.000313066756622682
+"Tennessee Titans",1,0.00323296095559919
+"Tennessee Titans",2,0.0157110434970842
+"Tennessee Titans",3,0.0477188116322155
+"Tennessee Titans",4,0.101454718065635
+"Tennessee Titans",5,0.160236031576481
+"Tennessee Titans",6,0.194672569238597
+"Tennessee Titans",7,0.185829214053852
+"Tennessee Titans",8,0.141103760276078
+"Tennessee Titans",9,0.0857142780931268
+"Tennessee Titans",10,0.0416540988257218
+"Tennessee Titans",11,0.016101920655195
+"Tennessee Titans",12,0.00489060143461972
+"Tennessee Titans",13,0.00114262443518777
+"Tennessee Titans",14,0.000198312480732643
+"Tennessee Titans",15,2.40932078487457e-05
+"Tennessee Titans",16,1.82944444008999e-06
+"Tennessee Titans",17,6.53709637199277e-08
+"Washington Commanders",0,5.61510369480403e-07
+"Washington Commanders",1,1.27126005045036e-05
+"Washington Commanders",2,0.000135441602524027
+"Washington Commanders",3,0.000901882136928726
+"Washington Commanders",4,0.00420383369383703
+"Washington Commanders",5,0.0145561516632043
+"Washington Commanders",6,0.0387707555812193
+"Washington Commanders",7,0.0811384313377024
+"Washington Commanders",8,0.13507168491474
+"Washington Commanders",9,0.179883783947195
+"Washington Commanders",10,0.191650386223203
+"Washington Commanders",11,0.16242121348293
+"Washington Commanders",12,0.108153468630553
+"Washington Commanders",13,0.0553980912960244
+"Washington Commanders",14,0.021079216020042
+"Washington Commanders",15,0.00561451371946524
+"Washington Commanders",16,0.000934651823509818
+"Washington Commanders",17,7.32198160477079e-05
